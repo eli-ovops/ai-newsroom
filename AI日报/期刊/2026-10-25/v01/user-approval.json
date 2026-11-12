@@ -1,0 +1,10 @@
+{
+  "status": "USER_APPROVED_HOMEPAGE",
+  "human_source": "首页图片可以。通过",
+  "approved_at": "2026-10-25T16:01:30.109942+08:00",
+  "image": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v01/output/custom.png",
+  "sha256": "59d0f71e9f7d4f72df57787c2bbb9cbbf10f71d7dccb7939d15d9a9dd71c20bd",
+  "scope": "2026-10-25 homepage v01 only; accepted visual reference for future daily homepages",
+  "publication_authorized": false,
+  "detail_pages_authorized": false
+}

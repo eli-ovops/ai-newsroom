@@ -1,0 +1,339 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "聊天":
+- dialog:
+  - dialog:
+    - progressbar
+    - button "关闭":
+    - button "草稿":
+      - generic: 草稿
+    - generic "Eli-AI":
+      - img "Eli-AI"
+    - textbox "帖子文本" [active]:
+      - generic: 10月26日AI日報：今天看4件事——AI影片工具更集中、顯卡提速有邊界、舊電視能換清爽桌面，AI也在參與新藥研發。其中有今天的更新，也有10月23日的合作公告，日期分開看。
+      - generic: ① MiniMax H3：11項社群工具補進索引
+      - generic: MiniMax官方組織下的H3生態索引，今天合併了11項社群專案的收錄，涵蓋參考圖生成影片、服務部署和工作流程等方向。想找適合自己設備的運行方式，可以先從這份導覽入手。
+      - generic: 這是索引更新，不是11個模型同時發布。GPU、雲端TPU和蘋果電腦對應不同配置；部分專案還在預覽或實驗階段，不能把某條路徑的速度套到所有設備上。
+      - generic: ② 消費級顯卡「翻倍」，究竟快在哪裡？
+      - generic: gpu-unlock-ada繼續補充實驗型號適配。專案作者和貢獻者回報，RTX 4090在特定半精度張量指令測試中，吞吐接近翻倍。
+      - generic: 到了實際矩陣運算，增幅會隨任務變化；README裡一組FP16矩陣測試提升12%—34%，另一個量化大型語言模型任務沒有收益。它依賴Linux、具體顯卡和驅動條件，不能理解成所有AI生成速度翻倍，更不是顯存翻倍。
+      - generic: ③ 讓AI助手幫舊電視換個清爽桌面
+      - generic: 開源桌面Aerial，把電視首頁換成應用程式、桌布和螢幕保護程式。作者安裝說明列出了WorkBuddy、豆包電腦版等能執行本機命令的AI助手，可協助安裝；這是專案文件提供的用法，我們沒有實際在電視安裝。
+      - generic: 需要對應機型支援、電腦與電視同網，並由機主允許ADB除錯和安裝。它只換桌面，韌體開機廣告和各App裡的影片廣告不會因此一起消失。今天另有版本更新，但這套桌面方案並非今天才出現。
+      - generic: ④ AI加入阿茲海默症研發
+      - generic: 10月23日，Pathos AI宣布與百時美施貴寶、Tempus合作，計畫整理神經疾病患者的去識別化長期資料，用AI研究疾病進展、提出研究假設，並協助設計更有針對性的臨床試驗。
+      - generic: 公告提到的資料涵蓋計畫涉及數十萬神經疾病患者，不等於這些人已參加阿茲海默症治療試驗。目前公布的是研發合作，尚未給出這項合作的治療效果或新藥上市結果。
+      - generic: 這4條裡，你更想了解AI影片、顯卡提速、電視桌面，還是AI藥物研發？
+      - generic: 來源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者說明、Pathos AI公告；詳見配圖。
+      - generic: "#AI日報"
+      - generic: "#人工智能"
+      - generic: "#MiniMax"
+      - generic: "#AI工具"
+      - generic: "#AI資訊"
+    - link "试用":
+      - /url: /compose/articles
+    - text: 新文章撰写器中的新格式选项。
+    - button "关闭":
+    - button "所有人可以回复":
+      - generic: 所有人可以回复
+    - navigation:
+      - button "上一个" [disabled]:
+      - tablist:
+        - button "添加照片或视频":
+        - button "Choose File"
+        - button "添加一个 GIF":
+        - button "生成图片":
+        - button "添加投票":
+        - button "添加表情符号":
+        - button "预排期帖子":
+        - button "标记位置" [disabled]:
+        - button "内容披露":
+      - button "下一步" [disabled]:
+    - generic: 剩余 23,245 个字符
+    - progressbar:
+    - button "添加帖子":
+    - button "发帖":
+      - generic: 发帖
+- button
+- button
+- banner:
+  - heading [level=1]:
+    - link:
+      - /url: /home
+  - navigation:
+    - link:
+      - /url: /home
+      - generic: 主页
+    - link:
+      - /url: /explore
+      - generic: 探索
+    - link:
+      - /url: /notifications
+      - generic: "2"
+      - generic: 通知
+    - link:
+      - /url: /i/chat
+      - generic: 聊天
+    - link:
+      - /url: /i/calls
+      - generic: 呼叫
+    - link:
+      - /url: /i/grok
+      - generic: Grok
+    - link:
+      - /url: /i/premium
+      - generic: 订阅
+    - link:
+      - /url: /i/history
+      - generic: 历史
+    - link:
+      - /url: /cczij1112
+      - generic: 个人资料
+    - button:
+      - generic: 更多
+  - link:
+    - /url: /compose/post
+    - generic: 发帖
+  - button:
+    - generic: Eli-AI
+    - generic: "@cczij1112"
+- main:
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - tab [selected]:
+        - text: 为你推荐
+      - tab:
+        - generic: 正在关注
+    - button [disabled]:
+  - button:
+  - status:
+    - button:
+      - generic: 查看新帖子
+  - link:
+    - /url: /cczij1112
+  - generic: 有什么新鲜事？
+  - textbox
+  - navigation:
+    - button [disabled]:
+    - tablist:
+      - button:
+      - button
+      - button:
+      - button:
+      - button:
+      - button:
+      - button:
+      - button [disabled]:
+      - button:
+    - button [disabled]:
+  - button [disabled]:
+    - generic: 发帖
+  - region:
+    - heading [level=1]: 你的主页时间线
+    - button:
+      - generic: 显示 35 帖子
+    - article:
+      - link:
+        - /url: /AndyL5cc
+      - link:
+        - /url: /AndyL5cc
+        - generic: Andy L
+      - link:
+        - /url: /AndyL5cc
+        - generic: "@AndyL5cc"
+      - generic: ·
+      - link:
+        - /url: /AndyL5cc/status/2114328739626861047
+        - time: 18小时
+      - button:
+      - button:
+      - generic: OpenAI CEO 奥特曼：“你已经不需要再写 Prompt 了！”😂 他在斯坦福的一场 38 分钟演讲，讲透了如何真正用好 ChatGPT。 看完才发现，自己可能连 ChatGPT 15% 的能力都没发挥出来！ 建议收藏，完整看一遍！
+      - button:
+      - button:
+        - generic: "49"
+      - button:
+        - generic: "69"
+      - button:
+        - generic: "653"
+      - link:
+        - /url: /AndyL5cc/status/2114328739626861047/analytics
+        - generic: 7.1万
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /yifaer_chen
+      - link:
+        - /url: /yifaer_chen
+        - generic: 陈一发儿
+      - link:
+        - /url: /yifaer_chen
+        - generic: "@yifaer_chen"
+      - generic: ·
+      - link:
+        - /url: /yifaer_chen/status/2114570806634443066
+        - time: 2小时
+      - button:
+      - button:
+      - generic: 一觉醒来A股又又又特么在大跌，我真服了。 这西巴市场干脆关了吧，每天都在跌。尤其是科技股跌得惨不忍睹。 也是，我们哪儿有什么科技。🤡🤡 跌得我只能找老妈借钱了。 下个月账单没法还了，我妈也套上了。淦
+      - link:
+        - /url: /yifaer_chen/status/2114570806634443066/photo/1
+      - button:
+        - generic: "212"
+      - button:
+        - generic: "9"
+      - button:
+        - generic: "291"
+      - link:
+        - /url: /yifaer_chen/status/2114570806634443066/analytics
+        - generic: 6.4万
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /beizhi606
+      - link:
+        - /url: /beizhi606
+        - generic: 潇潇
+      - link:
+        - /url: /beizhi606
+        - generic: "@beizhi606"
+      - generic: ·
+      - link:
+        - /url: /beizhi606/status/2114281614973010122
+        - time: 21小时
+      - button:
+      - button:
+      - generic: 还是muse做的 中文提示词（10.00秒） 人物： 脸部： 人物的长相、五官、发型、发色和妆容严格按照。 服装和身材： 人物的服装穿搭、配饰和身材比例严格按照。镜头2里人物背对镜头，背面的服装请参考三视图的背面。 一致性：
+      - button: 显示更多
+      - button:
+      - button:
+        - generic: "29"
+      - button:
+        - generic: "32"
+      - button:
+        - generic: "546"
+      - link:
+        - /url: /beizhi606/status/2114281614973010122/analytics
+        - generic: 5.1万
+      - button:
+      - button:
+    - article:
+      - link:
+        - /url: /JasonPang0720
+      - link:
+        - /url: /JasonPang0720
+        - generic: Jason
+      - link:
+        - /url: /JasonPang0720
+        - generic: "@JasonPang0720"
+      - generic: ·
+      - link:
+        - /url: /JasonPang0720/status/2114493235515326978
+        - time: 7小时
+      - button:
+      - button:
+      - generic: 报错已经出现，AI却继续沿原路改代码。OPRD让教师纠正学生自己的失败轨迹：训练时的提醒，怎样变成不用额外提醒也会做的动作？
+      - generic: 报错就在眼前，AI为何还继续乱改？把提醒变成训练信号
+      - generic: 编码助手已经看到了报错，却没有据此调整；任务要求留在上下文里，修改范围还是越扩越大。OPRD关注这种“信息在场，行动没跟上”的问题：能否在训练中教会智能体使用反馈，让它真正执行任务时，不必总靠外部提醒来拉回...
+      - button:
+        - generic: "5"
+      - button:
+        - generic: "1"
+      - button:
+        - generic: "5"
+      - link:
+        - /url: /JasonPang0720/status/2114493235515326978/analytics
+        - generic: "376"
+      - button:
+      - button:
+  - search:
+    - combobox
+  - region:
+    - heading [level=1]: 当前趋势
+    - heading [level=2]:
+      - generic: 有什么新鲜事
+    - link:
+      - generic: 日本 的趋势
+      - generic: 福田康夫元首相
+      - button:
+    - link:
+      - generic: 美食 趋势
+      - generic: "#どっさりナッティが届く"
+      - button:
+    - link:
+      - generic: 美食 趋势
+      - generic: "#雪印コーヒーのクーリッシュでた"
+      - button:
+    - link:
+      - generic: 美食 趋势
+      - generic: "#はま寿司旨ねたこれ食べる"
+      - button:
+    - link:
+      - /url: /explore/tabs/for-you
+      - generic: 显示更多
+  - complementary:
+    - heading [level=2]:
+      - generic: 推荐关注
+    - list:
+      - link:
+        - /url: /duoyun_77
+      - link:
+        - /url: /duoyun_77
+        - generic: 多云
+      - link:
+        - /url: /duoyun_77
+        - generic: "@duoyun_77"
+      - button:
+        - generic: 关注
+      - link:
+        - /url: /deepseek_ai
+      - link:
+        - /url: /deepseek_ai
+        - generic: DeepSeek
+      - link:
+        - /url: /deepseek_ai
+        - generic: "@deepseek_ai"
+      - button:
+        - generic: 关注
+      - link:
+        - /url: /TanZeng1021
+      - link:
+        - /url: /TanZeng1021
+        - generic: 曾探
+      - link:
+        - /url: /TanZeng1021
+        - generic: "@TanZeng1021"
+      - button:
+        - generic: 关注
+    - link:
+      - /url: /i/connect_people?user_id=1722879648877670400
+      - generic: 显示更多
+  - navigation:
+    - link:
+      - /url: https://x.com/tos
+      - text: 条款
+    - generic: ·
+    - link:
+      - /url: https://x.com/privacy
+      - text: 隐私
+    - generic: ·
+    - link:
+      - /url: https://support.x.com/articles/20170514
+      - text: Cookie
+    - generic: ·
+    - link:
+      - /url: https://help.x.com/resources/accessibility
+      - text: 辅助功能
+    - generic: ·
+    - link:
+      - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - text: 广告信息
+    - generic: ·
+    - button:
+      - text: 更多
+    - generic: © 2026 X Corp.

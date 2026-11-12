@@ -1,0 +1,161 @@
+{
+  "issue_date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "research_started_at": "2026-10-26T00:56:38Z",
+  "recorded_at_utc": "2026-10-26 01:02:08 UTC",
+  "priority_window_start": "2026-10-25T00:56:38Z",
+  "scope": "本期候选检索；3条近24小时已核版本更新，1条日期待核。不凑4条。",
+  "route": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261025-v6",
+    "AI-DAILY-20261025-v4",
+    "AI-DAILY-EDITORIAL-20261025-v1",
+    "ROUTING-2026-10-25-v6",
+    "TOKEN-BUDGET-2026-10-25-v2"
+  ],
+  "recommended_ids": [
+    "01",
+    "02",
+    "03"
+  ],
+  "items": [
+    {
+      "id": "01",
+      "status": "VERIFIED_RECENT_RELEASE",
+      "title": "Open WebUI更新：技能按需加载，长对话压缩过程可见",
+      "publisher": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui/releases/tag/v0.12.4",
+      "metadata_url": "https://api.github.com/repos/open-webui/open-webui/releases/tags/v0.12.4",
+      "published_at": "2026-10-25T08:07:13Z",
+      "published_at_beijing": "2026-10-25T16:07:13+08:00",
+      "event_date": "2026-10-25",
+      "availability": "正式Release公开；draft=false，prerelease=false",
+      "verified_facts": [
+        "管理员可开启所选技能按需加载，默认关闭，需内置Skills工具；消息中提及的技能仍立即加载。",
+        "聊天显示可展开的上下文压缩标记，临时聊天等扩展压缩支持。",
+        "官方确认含安全修复，具体通告待CVE分配。"
+      ],
+      "conditions": [
+        "不代表所有聊天默认开启。",
+        "升级含Direct Integrations默认关闭时停用既存连接、Docker改Python3.12等兼容变化。",
+        "未安装实测或量化节费。"
+      ],
+      "reading_coverage": "实际打开官方Release，读Added前三项、Fixed安全提示和Changed；gh Release API核精确时间与正式状态。未审全部PR。"
+    },
+    {
+      "id": "02",
+      "status": "VERIFIED_RECENT_RELEASE",
+      "title": "big-AGI更新：聊天内容可整体编辑，修复Gemini密钥暴露问题",
+      "publisher": "enricoros/big-AGI",
+      "url": "https://github.com/enricoros/big-AGI/releases/tag/v2.1.2",
+      "metadata_url": "https://api.github.com/repos/enricoros/big-AGI/releases/tags/v2.1.2",
+      "published_at": "2026-10-25T04:42:10Z",
+      "published_at_beijing": "2026-10-25T12:42:10+08:00",
+      "event_date": "2026-10-25",
+      "availability": "正式Release公开；draft=false，prerelease=false；官方列网站、Docker和源码入口，未运行",
+      "verified_facts": [
+        "编辑会话可重排内容块、编辑文档、添加文本与附件。",
+        "修复配置了服务端Gemini密钥的部署中，AI Inspector请求回显导致的密钥暴露问题；官方要求受影响者升级并轮换。",
+        "新增Meta AI供应商等客户端接入，不证明模型当日发布。"
+      ],
+      "conditions": [
+        "密钥问题有配置条件，不代表所有用户已泄露。",
+        "第三方模型仍受账户、权限和费用约束，未核价格。",
+        "未审安全通告全文或运行验证修复。"
+      ],
+      "reading_coverage": "实际打开并读官方Release的Security、Models & Vendors、Chat、Reliability、Also New、Get Started；gh元数据核时间和正式状态。未打开每个PR。"
+    },
+    {
+      "id": "03",
+      "status": "VERIFIED_RECENT_RELEASE",
+      "title": "Windmill更新：企业AI聊天可按用户身份连接Claude",
+      "publisher": "windmill-labs/windmill",
+      "url": "https://github.com/windmill-labs/windmill/releases/tag/v1.849.0",
+      "detail_url": "https://github.com/windmill-labs/windmill/pull/11998",
+      "metadata_url": "https://api.github.com/repos/windmill-labs/windmill/releases/tags/v1.849.0",
+      "published_at": "2026-10-25T15:58:21Z",
+      "published_at_beijing": "2026-10-25T23:58:21+08:00",
+      "event_date": "2026-10-25",
+      "availability": "Release已公开；涉及企业版OIDC能力与Claude组织规则配置",
+      "verified_facts": [
+        "Windmill AI新增按用户的Anthropic Workload Identity Federation。",
+        "PR说明聊天和copilot代理可用请求者身份换短期访问凭据，管理员可限制认证者。"
+      ],
+      "conditions": [
+        "不是免费开放Claude；需要企业许可及组织配置。",
+        "不同用户身份可共用规则和服务账号，不等于个人独立账单。",
+        "PR后续提交扩展不外推为该版本全部脚本/智能体步骤支持。",
+        "未配置真实组织或验证端到端调用。"
+      ],
+      "reading_coverage": "实际打开官方Release并读Features；PR定向读Summary、Design choices、Setup、企业许可及计费条件，未通读讨论/代码；gh Release API核精确时间。"
+    },
+    {
+      "id": "04",
+      "status": "DATE_UNVERIFIED_NOT_RECOMMENDED",
+      "title": "Nanbeige公开33B教师模型，后续3B仍是计划（首次公开日期待核）",
+      "publisher": "Nanbeige",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "metadata_url": "https://huggingface.co/api/models/Nanbeige/Nanbeige4.3-33B",
+      "announcement_url": "https://x.com/nanbeige/status/2114328933181333798",
+      "published_at": "UNKNOWN",
+      "event_date": "UNKNOWN",
+      "created_at": "2026-10-24T02:49:18.000Z",
+      "last_modified": "2026-10-25T11:11:17.000Z",
+      "revision": "c1093c501cc6460427c0ac634db7223d0450c0ee",
+      "availability": "公开模型卡及权重仓库；Apache-2.0；页面显示无托管Inference Provider",
+      "verified_facts": [
+        "33B定位为教师模型，3B仍写作后续计划。",
+        "模型卡称支持512K上下文；成绩为团队自评，未用分数作推荐标题。"
+      ],
+      "conditions": [
+        "仓库创建/更新时间不等于首次公开日期。",
+        "第三方称25日宣布，但官方X帖本轮403，未取得原文和原生日期，不列近24小时已核推荐。",
+        "停止追查；未来明确选中再由编辑Owner补一手时间证据。"
+      ],
+      "reading_coverage": "实际读官方模型卡Introduction、Performance及注脚、Quickstart、许可和托管状态；公开API读创建/更新时间。X403即停，不换身份/镜像；HF提交历史工具不可读未重试。"
+    }
+  ],
+  "excluded_leads": [
+    {
+      "topic": "NVIDIA Flora",
+      "url": "https://huggingface.co/nvidia/Flora-Rewarder",
+      "reason": "模型卡Release Date为2026-10-15，限非商业研究。25日报道不是当日发布。",
+      "reading_coverage": "实际读官方项目页摘要及模型卡描述、许可、发布日期、用途，未读全论文。"
+    },
+    {
+      "topic": "Struna",
+      "url": "https://github.com/Felliks/Struna",
+      "created_at": "2026-10-24T14:51:17Z",
+      "latest_commit_at": "2026-10-25T20:41:53Z",
+      "reason": "近24小时提交主要为推荐歌曲及新手玩法调整，不作为新AI产品发布。README说明可选神经情绪模型不包含。",
+      "reading_coverage": "实际读README、仓库元数据及最近6次提交标题日期，未读diff或试玩。"
+    },
+    {
+      "topic": "Kling API线索",
+      "reason": "聚合页所指官方X正文未取得，舍弃。"
+    }
+  ],
+  "queried_at_for_all_sources_utc": "2026-10-26 01:02:08 UTC",
+  "discovery_only_urls": [
+    "https://outyet.ai/",
+    "https://olud.ai/releases.html",
+    "https://ai.zhudong.net/en/",
+    "https://hub.baai.ac.cn/view/59048",
+    "https://hraness.com/reading/nanbeige4-3-33b"
+  ],
+  "method": "agent-reach网页/开发路由。Exa报Unknown MCP server exa，按LOCAL_BLOCKERS已验证记录使用现有search_service搜索/打开官方网页，gh公开API及HF公开API补时间。聚合页只发现线索，不作核实依据。无社交采样、模型试用或安装。",
+  "operational_notes": [
+    "中文Python heredoc解析报Non-UTF-8，未写入文件；按LOCAL_BLOCKERS既有条目改用apply_patch成功，未改语言/系统设置。",
+    "没有下载媒体或创建临时文件；只写候选.md和sources.json。"
+  ],
+  "report": {
+    "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "send_status": "SUCCESS: mcp__codex_app__send_message_to_thread一次，isError=false，返回threadId=01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "pmo_read_and_acceptance": "UNKNOWN"
+  }
+}

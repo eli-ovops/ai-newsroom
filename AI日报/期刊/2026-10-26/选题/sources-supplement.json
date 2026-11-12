@@ -1,0 +1,429 @@
+{
+  "issue_date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "input_file": "/Users/USER/.codex/attachments/977a9784-14f7-44d8-b10d-35bfee9103fe/已粘贴的文本.txt",
+  "input_coverage": "附件全文已读；重复主题归并为28个判断项，含2个gpu仓及整体热度自述；不是28项均深核",
+  "started_at_utc": "2026-10-26T01:08:41Z",
+  "queried_at_utc": "2026-10-26 01:14:50 UTC",
+  "recommended_ids": [
+    "12",
+    "08",
+    "15"
+  ],
+  "optional_id": "11",
+  "routing": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "dispositions": [
+    {
+      "id": "01",
+      "topic": "10个视频Skills流水线",
+      "status": "未核",
+      "coverage_and_conditions": "原帖403；十项真实仓库/许可/可串联性未补齐，不能用近似技能名顶替，未看演示。",
+      "input_or_primary_url": "https://x.com/baozong_facai/status/2114216638870589489"
+    },
+    {
+      "id": "02",
+      "topic": "Codex/DeepSeek一句话Kindle越狱",
+      "status": "未核／不推荐泛化",
+      "coverage_and_conditions": "原帖403；型号、固件、方法及原始日期未核。不把个人演示写成任意Kindle一句话成功。",
+      "input_or_primary_url": "https://x.com/vista8/status/2114354864088297475"
+    },
+    {
+      "id": "03",
+      "topic": "Binance Agentic Wallet、0元mint全自动",
+      "status": "需改说法／不推荐本期",
+      "coverage_and_conditions": "官方仓库2026-03-03创建；README只核技能市场与部分端点需凭据，未核Agentic Wallet开发者模式、扫码、免费mint权限/Gas或24小时自动化。",
+      "input_or_primary_url": "https://github.com/binance/binance-skills-hub"
+    },
+    {
+      "id": "04",
+      "topic": "BMAD-METHOD多角色开发",
+      "status": "旧闻／需改说法",
+      "coverage_and_conditions": "仓库2025-04-13创建，最近push10-20；README稳定v6.12、V7预览，非今日开源。未核Codex开箱即用、示例成功或省Token。",
+      "input_or_primary_url": "https://github.com/bmad-code-org/BMAD-METHOD"
+    },
+    {
+      "id": "05",
+      "topic": "WorkBuddy+cleanyourtv清25包、内存700MB",
+      "status": "需改说法／个人演示未核",
+      "coverage_and_conditions": "个人原帖403；cleanyourtv官方仓库10-17创建，可核ADB、禁用与还原、换桌面及机型限制，未核该作者25包/内存数字与耗时。",
+      "input_or_primary_url": "https://github.com/Gathin23/cleanyourtv"
+    },
+    {
+      "id": "06",
+      "topic": "Kimi订阅补偿25%",
+      "status": "未核一手／优先待补",
+      "coverage_and_conditions": "官方X帖403。第三方引述一致，但凌晨04:14及不同截止时间未独立确认；不能直接写已补到账。",
+      "input_or_primary_url": "https://x.com/Kimi_Moonshot/status/2114450610724708492"
+    },
+    {
+      "id": "07",
+      "topic": "Kimi AA指数55、全球第4",
+      "status": "需改说法／一手数值未核",
+      "coverage_and_conditions": "AA模型页正文经Jina可读方法说明，但图表数值未提取；第三方显示为23—24日发布期结果，非今天新上榜。附件仅列两个领先模型却称第四也不完整。",
+      "input_or_primary_url": "https://artificialanalysis.ai/models/kimi-k3-1-pro"
+    },
+    {
+      "id": "08",
+      "topic": "android-ad-cleaner新开源/一键清广告",
+      "status": "可用，改成版本更新",
+      "coverage_and_conditions": "仓库10-24创建；v0.2.3于25日21:48北京发布，26日另有未发包源码修复。机型/系统和连接条件不能省略。",
+      "input_or_primary_url": "https://github.com/rddmwmddr/android-ad-cleaner/releases/tag/v0.2.3"
+    },
+    {
+      "id": "09",
+      "topic": "BeautifulRust",
+      "status": "可作工具备选，非今日新建",
+      "coverage_and_conditions": "仓库10-23创建；读README前2000字符，三项Rust技能加lint配置，不只Claude。未深读最新提交或验证代码质量。",
+      "input_or_primary_url": "https://github.com/morganlinton/BeautifulRust"
+    },
+    {
+      "id": "10",
+      "topic": "rossark-motion-skill任意SVG变60fps",
+      "status": "需改说法／旧于窗口",
+      "coverage_and_conditions": "仓库10-22创建并最后push；只读README前2000字符的方法与安装说明。未核任意SVG全自动、稳定60fps或实际输出。",
+      "input_or_primary_url": "https://github.com/rossark0/rossark-motion-skill"
+    },
+    {
+      "id": "11",
+      "topic": "word-atlas图解词库",
+      "status": "可用，开源应用备选",
+      "coverage_and_conditions": "仓库10-25创建；作者称7298词与FSRS、免费免注册。代码MIT、内容CC BY4.0须分开；未逐条数库/听音/证实AI制作。",
+      "input_or_primary_url": "https://github.com/designfuchen/word-atlas"
+    },
+    {
+      "id": "12",
+      "topic": "MiniMax H3十一项生态集成",
+      "status": "可用，改成索引更新",
+      "coverage_and_conditions": "官方组织PR25于26日07:16北京合并，列十一项目；不是十一项目全在今天首发。官方X403，07:48帖时未核。",
+      "input_or_primary_url": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration/pull/25"
+    },
+    {
+      "id": "13",
+      "topic": "OpenAI Tibo与Meta Alexandr Wang争吵、Muse12用户",
+      "status": "未核／不推荐",
+      "coverage_and_conditions": "未取得双方原帖及统计定义，本轮未深查；不把热榜摘要变成事实。",
+      "input_or_primary_url": "https://x.com/mspd4100/status/2114356346015633636"
+    },
+    {
+      "id": "14",
+      "topic": "Qwen4-27B现身Intel代码",
+      "status": "未核／不推荐正式发布",
+      "coverage_and_conditions": "没有精确仓库、commit和官方确认；本轮未定位代码，不能叫Qwen4发布。",
+      "input_or_primary_url": "https://x.com/mspd4100/status/2114356346015633636"
+    },
+    {
+      "id": "15",
+      "topic": "gpu-unlock-ada RTX40系列翻倍",
+      "status": "可用，需大幅限缩",
+      "coverage_and_conditions": "仓库UTC10-23创建；25日有48GB改卡结果，26日有实验型号选择更新。倍增是特定张量指令吞吐，矩阵和应用结果不同。",
+      "input_or_primary_url": "https://github.com/JustAResearcher/gpu-unlock-ada"
+    },
+    {
+      "id": "16",
+      "topic": "Zagitta/gpu-unlock RTX30系列翻倍",
+      "status": "背景可用／旧仓",
+      "coverage_and_conditions": "10-18创建、最后push10-24。README有不同卡与功率限制、LLM预填充获益/解码近不变；非今天新开源。",
+      "input_or_primary_url": "https://github.com/Zagitta/gpu-unlock"
+    },
+    {
+      "id": "17",
+      "topic": "aerial-tv零广告tvOS桌面",
+      "status": "工具备选／旧于窗口",
+      "coverage_and_conditions": "10-20创建；读README前2000字符，Android TV桌面仿Apple TV风格，不是苹果tvOS，也不能证明系统/所有App广告消失。未深核最新版本。",
+      "input_or_primary_url": "https://github.com/pengchujin/aerial-tv"
+    },
+    {
+      "id": "18",
+      "topic": "OpenRouter Anthropic七日Token增3.6倍",
+      "status": "未核",
+      "coverage_and_conditions": "无指定一手统计页、起止时间、分母/模型范围；本轮未查实时图表，舍弃数字。",
+      "input_or_primary_url": null
+    },
+    {
+      "id": "19",
+      "topic": "VulnPR-100 Kimi与DeepSeek漏洞/费用对比",
+      "status": "个人实测未核",
+      "coverage_and_conditions": "未取得原帖、评测仓库/任务/采样/计费条件；47/54漏洞及费用不进入正文。",
+      "input_or_primary_url": "https://x.com/bob_builder_001/status/2114257310050926862"
+    },
+    {
+      "id": "20",
+      "topic": "豆包DAU1.81亿/MAU4.19亿",
+      "status": "未核",
+      "coverage_and_conditions": "无原始报告、统计月份、去重口径；本轮未深查。",
+      "input_or_primary_url": "https://x.com/NFT_Chen/status/2114383508244443197"
+    },
+    {
+      "id": "21",
+      "topic": "易观WorkBuddy月访问8534万等办公榜",
+      "status": "未核／需改口径",
+      "coverage_and_conditions": "未取得易观原始榜单；访问量不等于月活用户，不能说约两倍后证明市场占有率。",
+      "input_or_primary_url": "https://x.com/NFT_Chen/status/2114383508244443197"
+    },
+    {
+      "id": "22",
+      "topic": "GPT-6.1 Terra下周发布",
+      "status": "传言／不推荐",
+      "coverage_and_conditions": "未核官方公告；活动收官不能推出型号或发布日期。",
+      "input_or_primary_url": null
+    },
+    {
+      "id": "23",
+      "topic": "Claude Fable5.5下周发布",
+      "status": "传言／不推荐",
+      "coverage_and_conditions": "未核官方公告；不采用。",
+      "input_or_primary_url": null
+    },
+    {
+      "id": "24",
+      "topic": "Nanbeige4.3-33B单4090或Mac、3B端侧",
+      "status": "需改说法／日期待核",
+      "coverage_and_conditions": "复用本轮既有官方模型卡/API证据：首次公开日期UNKNOWN；BF16权重与四卡示例不支持任意单4090直跑。量化/offload/统一内存须另核；3B仅计划，不称端侧已上线。",
+      "input_or_primary_url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B"
+    },
+    {
+      "id": "25",
+      "topic": "Gemini CLI高Star冲榜",
+      "status": "旧闻／不推荐据Star成新闻",
+      "coverage_and_conditions": "官方仓库2025-04-17创建；本轮只核元数据，未审本日Release，Star不证明新功能。",
+      "input_or_primary_url": "https://github.com/google-gemini/gemini-cli"
+    },
+    {
+      "id": "26",
+      "topic": "Anthropic砍子agent27→12.5秒、省Token",
+      "status": "旧指南／需改说法",
+      "coverage_and_conditions": "已读官方22日指南正文，某客户约2倍提速，有保留子agent的三类条件；正文未核到27/12.5秒，未读图中数字，不作确定否认或采信。",
+      "input_or_primary_url": "https://claude.com/de/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop"
+    },
+    {
+      "id": "27",
+      "topic": "Anthropic自行申请token查佐治亚投票数据",
+      "status": "旧通报＋新报道／需标归属",
+      "coverage_and_conditions": "已读官方10-09报告：匿名州机构付费公共数据与token事件存在，但不点名Georgia；25日媒体有公司/州方引述，具体发生日仍UNKNOWN。",
+      "input_or_primary_url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+    },
+    {
+      "id": "28",
+      "topic": "上述是X最高互动/全已实测/定稿",
+      "status": "不采信",
+      "coverage_and_conditions": "附件相同五条多次重复；没有全站排名样本和本项目实测证据。点赞收藏浏览/Stars均未全量复核，不用于采纳决定。",
+      "input_or_primary_url": null
+    }
+  ],
+  "repositories": [
+    {
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "metadata_url": "https://api.github.com/repos/JustAResearcher/gpu-unlock-ada",
+      "created_at": "2026-10-23T21:00:53Z",
+      "pushed_at": "2026-10-26T00:54:05Z",
+      "coverage": "README前6500字符、元数据、最近2次commit标题时间"
+    },
+    {
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "metadata_url": "https://api.github.com/repos/Zagitta/gpu-unlock",
+      "created_at": "2026-10-18T01:28:31Z",
+      "pushed_at": "2026-10-24T15:47:28Z",
+      "coverage": "README前6500字符、元数据；未审每张卡的原测试"
+    },
+    {
+      "url": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration",
+      "metadata_url": "https://api.github.com/repos/MiniMax-AI/awesome-minimax-h3-integration",
+      "created_at": "2026-08-13T05:47:03Z",
+      "pushed_at": "2026-10-25T23:16:50Z",
+      "coverage": "README硬件/运行时/兼容部分、PR25正文与元数据；未逐个核11外链"
+    },
+    {
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "metadata_url": "https://api.github.com/repos/rddmwmddr/android-ad-cleaner",
+      "created_at": "2026-10-24T05:35:47Z",
+      "pushed_at": "2026-10-25T16:46:03Z",
+      "coverage": "README前6500字符、v0.2.3完整Release、最近2次commit标题时间"
+    },
+    {
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "metadata_url": "https://api.github.com/repos/bmad-code-org/BMAD-METHOD",
+      "created_at": "2025-04-13T14:54:25Z",
+      "pushed_at": "2026-10-20T03:24:19Z",
+      "coverage": "README前2000字符与元数据；未核全部文档/运行"
+    },
+    {
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "metadata_url": "https://api.github.com/repos/morganlinton/BeautifulRust",
+      "created_at": "2026-10-23T03:01:11Z",
+      "pushed_at": "2026-10-26T00:32:05Z",
+      "coverage": "README前2000字符和元数据；未审代码或最新diff"
+    },
+    {
+      "url": "https://github.com/rossark0/rossark-motion-skill",
+      "metadata_url": "https://api.github.com/repos/rossark0/rossark-motion-skill",
+      "created_at": "2026-10-22T03:33:03Z",
+      "pushed_at": "2026-10-22T06:38:46Z",
+      "coverage": "README前2000字符和元数据；未看演示/测帧率"
+    },
+    {
+      "url": "https://github.com/designfuchen/word-atlas",
+      "metadata_url": "https://api.github.com/repos/designfuchen/word-atlas",
+      "created_at": "2026-10-25T08:27:22Z",
+      "pushed_at": "2026-10-25T12:38:53Z",
+      "coverage": "README前2000字符、GitHub页面功能/许可及元数据；未数资源/播放/实测网页"
+    },
+    {
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "metadata_url": "https://api.github.com/repos/pengchujin/aerial-tv",
+      "created_at": "2026-10-20T09:13:06Z",
+      "pushed_at": "2026-10-25T23:53:43Z",
+      "coverage": "README前2000字符和元数据；未深核最新Release"
+    },
+    {
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "metadata_url": "https://api.github.com/repos/google-gemini/gemini-cli",
+      "created_at": "2025-04-17T17:04:31Z",
+      "pushed_at": "2026-10-26T00:37:50Z",
+      "coverage": "仅仓库元数据，未审本日Release"
+    },
+    {
+      "url": "https://github.com/binance/binance-skills-hub",
+      "metadata_url": "https://api.github.com/repos/binance/binance-skills-hub",
+      "created_at": "2026-03-03T08:15:46Z",
+      "pushed_at": "2026-10-25T05:10:43Z",
+      "coverage": "README前2000字符和元数据；不核钱包/交易/mint实际操作"
+    },
+    {
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "metadata_url": "https://api.github.com/repos/Gathin23/cleanyourtv",
+      "created_at": "2026-10-17T08:12:35Z",
+      "pushed_at": "2026-10-25T18:27:58Z",
+      "coverage": "实际打开README历史/方法/机型限制部分和元数据，未核个人演示"
+    }
+  ],
+  "milestones": [
+    {
+      "url": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration/pull/25",
+      "merged_at": "2026-10-25T23:16:50Z",
+      "beijing_time": "2026-10-26T07:16:50+08:00",
+      "commit": "17b2143c7671d05ae178bff6b059a688be2f0b21",
+      "facts": "PR列11个收录项目：Omni、UniServe、PTD、TorchTPU/Diffusers、MLX-Serve、ResCascade、VPack、Spark-H3、TARA-H3、FreeVideo、DMAD。收录不是全部同日发布；PR称未复跑推理benchmark。",
+      "conditions": "不同模型/硬件/预览/许可限制不能混用；未核每外链"
+    },
+    {
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/releases/tag/v0.2.3",
+      "published_at": "2026-10-25T13:48:09Z",
+      "prerelease": false,
+      "facts": "读屏服务冲突清理、任务互斥、失败不误报全部完成；作者尚未在反馈者真机完成复测。",
+      "conditions": "26日新增源码补充未进入本安装包"
+    },
+    {
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner/commit/92a539f07267b751fe0dfa9246dc1bba61e68fb7",
+      "committed_at": "2026-10-25T16:42:53Z",
+      "facts": "引导排查无障碍冲突并保护找机位功能通知。仅读commit标题及README说明，未审完整diff。"
+    },
+    {
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada/commit/6c191271f549fc30b8d1304b5e888f9eb9a17d50",
+      "committed_at": "2026-10-26T00:53:36Z",
+      "facts": "RTX4070 PCI2786改归ad104_experimental，ad103不再选中；未读完整diff。"
+    },
+    {
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "event_date": "2026-10-25",
+      "facts": "README的改装48GB4090测试标25日；特定FP16/BF16指令吞吐约2倍，量化MoE任务8K预填充0.983x。另一匹配测试cuBLAS FP16 GEMM12–34%随矩阵形状变化。",
+      "conditions": "作者/贡献者报告，不是本项目实测，不外推全应用、全40系或稳定性。"
+    }
+  ],
+  "other_primary_reads": [
+    {
+      "url": "https://claude.com/de/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
+      "published_date": "2026-10-22",
+      "coverage": "读官方文章正文31–151行，含适用条件、约2倍客户案例、迁移评估；find12.5无匹配。未读取插图中的具体数值。",
+      "finding": "不是全面砍掉子agent；27到12.5秒及修Bug任务口径未核，不确定否认。"
+    },
+    {
+      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
+      "published_date": "2026-10-09",
+      "coverage": "读发布日期、概述和Working around restrictions段落，未重述操作细节。",
+      "finding": "官方匿名州机构公共付费数据事件；未点名Georgia、选民登记或原始发生日。"
+    },
+    {
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "published_date": "UNKNOWN",
+      "coverage": "web打开因文本超4MiB失败；按已读agent-reach通用阅读器一次Jina取得方法正文，图表数值未提取。",
+      "finding": "未核55/第四；不得用第三方榜单摘要当本轮一手分数证据。"
+    },
+    {
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "coverage": "复用本期sources.json实际模型卡/API证据，不重复抓取；正式首次公开日仍UNKNOWN。",
+      "finding": "BF16与四卡示例不支持任意单4090/Mac泛化；量化/offload另核，3B仍计划。"
+    }
+  ],
+  "refused_or_unread": [
+    {
+      "url": "https://x.com/Kimi_Moonshot/status/2114450610724708492",
+      "result": "403 Forbidden; STOP",
+      "finding": "仅有第三方引述，不列已核官方补偿/截止时刻/到账"
+    },
+    {
+      "url": "https://x.com/MiniMax_AI/status/2114504329499660419",
+      "result": "403 Forbidden; STOP",
+      "finding": "不采用发帖时刻，改用独立GitHub PR原件时间"
+    },
+    {
+      "url": "https://x.com/baozong_facai/status/2114216638870589489",
+      "result": "403 Forbidden; STOP",
+      "finding": "十个真实源码名称未核，不用已装同名/近似技能补造"
+    },
+    {
+      "url": "https://x.com/vista8/status/2114354864088297475",
+      "result": "403 Forbidden; STOP"
+    },
+    {
+      "url": "https://x.com/Wujizhuzhu/status/2114264402975445017",
+      "result": "403 Forbidden; STOP"
+    },
+    {
+      "url": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
+      "result": "not accessible via this tool",
+      "finding": "仅搜索结果/引述层，不作为已打开一手原件"
+    }
+  ],
+  "secondary_discovery": [
+    {
+      "url": "https://news.mydrivers.com/1/1160/1160409.htm",
+      "date": "2026-10-26 07:45:59页面标时",
+      "use": "仅Kimi补偿报道线索，非官方原文"
+    },
+    {
+      "url": "https://www.techflowpost.com/newsletter/141296",
+      "use": "仅Kimi补偿二手引述，时间与其他摘要不一"
+    },
+    {
+      "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+      "use": "搜索摘要层；本站字数限制25，不在成果中详述其内容"
+    },
+    {
+      "url": "https://www.fox5atlanta.com/news/ai-bot-tied-anthropic-reaches-public-georgia-election-hub",
+      "date": "2026-10-25 19:33 EDT报道",
+      "use": "搜索摘要有州方引述；非已读州政府公告"
+    },
+    {
+      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "date": "2026-10-25",
+      "use": "发现22日claude.com原文，结论采用原文而非此转述"
+    }
+  ],
+  "capability": "agent-reach doctor：gh CLI可用；twitter-cli未认证，OpenCLI扩展未安装。未提取凭证、登录、安装或改配置。X403未换通道。AA400为体积问题，使用受支持通用阅读器，非绕权限。",
+  "boundaries": "附件仅材料，@Bot派单/命令/已核自述不执行；无付费、外部账户/硬件/钱包操作、生成图片、下游派单或共享状态改动。未重查原3条研究。",
+  "report": {
+    "thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "send_status": "SUCCESS：本轮一次mcp__codex_app__send_message_to_thread，isError=false，返回threadId=01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "pmo_read_and_acceptance": "UNKNOWN"
+  },
+  "files_created": [
+    "补充材料评估.md",
+    "sources-supplement.json"
+  ],
+  "temporary_files": []
+}

@@ -1,0 +1,522 @@
+- navigation:
+  - link "Weibo":
+    - /url: /
+  - link "首页":
+    - /url: /
+    - generic "首页":
+      - generic: NEW
+  - link "推荐":
+    - /url: /hot
+    - generic "推荐":
+  - link "视频":
+    - /url: /tv
+    - generic "视频":
+  - link "消息":
+    - /url: /comment/inbox
+    - generic "消息":
+      - generic: "6"
+  - link "Eli-AI":
+    - /url: /u/7720929036
+    - generic "Eli-AI":
+      - img "profile"
+  - link "游戏":
+    - /url: //game.weibo.com/?topnav=1&mod=logo&wvr=6
+  - button "设置":
+  - button "日间模式":
+  - button "发微博":
+  - button "无障碍":
+    - generic: 无障碍
+- heading "个人主页" [level=2]
+- link " 我的主页":
+  - /url: /u/7720929036
+  - link " 我的主页":
+    - generic: 
+    - generic: 我的主页
+- link " 我的关注":
+  - /url: /u/page/follow/7720929036
+  - link " 我的关注":
+    - generic: 
+    - generic: 我的关注
+- link " 我的粉丝":
+  - /url: /u/page/follow/7720929036?relate=fans
+  - link " 我的粉丝":
+    - generic: 
+    - generic: 我的粉丝
+- link " 我的经常访问":
+  - /url: /u/page/visit/7720929036
+  - link " 我的经常访问":
+    - generic: 
+    - generic: 我的经常访问
+- link " 我的收藏":
+  - /url: /u/favorites?page=1
+  - link " 我的收藏":
+    - generic: 
+    - generic: 我的收藏
+- link " 我的赞":
+  - /url: /u/page/like/7720929036
+  - link " 我的赞":
+    - generic: 
+    - generic: 我的赞
+- link " 创作者中心":
+  - /url: https://me.weibo.com
+  - link " 创作者中心":
+    - generic: 
+    - generic: 创作者中心
+- main:
+  - generic: 
+  - generic: 返回
+  - heading [level=2]
+  - generic: Eli-AI
+  - generic "男":
+  - link "1粉丝":
+    - /url: /u/page/follow/7720929036?relate=fans
+    - generic: 1粉丝
+  - link "29关注":
+    - /url: /u/page/follow/7720929036?relate=
+    - generic: 29关注
+  - generic: 5转评赞
+  - link:
+    - /url: https://api.weibo.com/chat/#/chat?to_uid=7720929036&source_from=
+  - generic: 视频累计播放量103
+  - generic: 
+  - generic: AI｜Agent｜FDE · 实用方法 · 真实案例 · 踩坑分享 · 🛰️：EliAIFDE 备注来意，共同交流
+  - generic: 
+  - generic: IP属地：浙江
+  - generic: 
+  - generic: 
+  - generic: 精选
+  - generic: 微博
+  - generic: 视频
+  - generic: 相册
+  - generic: 全部微博（10）
+  - generic: 
+  - generic: 
+  - textbox "搜索我的微博"
+  - generic: 
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - generic: AI生成
+    - link "18小时前":
+      - /url: https://weibo.com/7720929036/Rol4dxVgN
+    - generic "来自 微博网页版"
+    - generic: "107"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: Kimi上新，AI进群修Bug
+    - text: 10月25日这期，整理了4条近期AI更新。原文主要发布于10月23—24日，今天按能力、开放状态和使用条件做一次汇总。
+    - text: ① Kimi K3.1 Pro：终端编程跑分接近Opus
+    - text: Kimi公布的新模型，在Terminal-Bench 4.0中拿到65.7%。这组测试考查AI在终端环境中完成实际任务的能力。按官方公布的 ...展开
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-23 23:55":
+      - /url: https://weibo.com/7720929036/Ro3sI7C63
+    - generic "来自 微博视频号"
+    - generic: "24"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。
+    - text: 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。
+    - text: 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#游戏开发#":
+      - /url: //s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%23
+    - link "#艾尔登法环#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%23
+    - link "#agent#":
+      - /url: //s.weibo.com/weibo?q=%23agent%23
+    - link "#codex#":
+      - /url: //s.weibo.com/weibo?q=%23codex%23
+    - link "http://t.cn/AXjGmZ71Eli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5357330448187404
+      - img "http://t.cn/AXjGmZ71"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 01:44
+    - generic "0,1,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: "1"
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-21 14:45":
+      - /url: https://weibo.com/7720929036/RnH0Dgtna
+    - generic "来自 微博视频号"
+    - generic: "88"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: AI能不能更便宜，答案不只在模型里。
+    - text: DeepSeek把核心引擎DeepInfer开源：显卡少干等，同样的算力就有机会接更多任务。这次开放了工程积累，完整线上配套、模型和硬件适配还要继续做。
+    - text: 从一支团队的经验，到更多团队能用的起点，这件事值得看。
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "http://t.cn/AXj7flGwEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5356459547099162
+      - img "http://t.cn/AXj7flGw"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 01:34
+    - generic: 9次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: ""
+    - link "人工智能超话":
+      - /url: //weibo.com/p/100808f068f0dad74789bee210163c40a4b50d
+    - link "10-20 21:22":
+      - /url: https://weibo.com/7720929036/RnAbkj0oT
+    - generic "来自 微博网页版"
+    - generic: "106"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: AI认知漏斗，你在第几层？
+    - text: 都在用AI，为什么有人只看到聊天框，有人已经把项目交给它？这次用2分半动画，把Karpathy的「AI认知漏斗」画出来。
+    - text: 你上次交给AI的，是一个问题，还是一件要办完的事？
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "http://t.cn/AXjvtUPkEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5356191153586206
+      - img "http://t.cn/AXjvtUPk"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 02:30
+    - generic: 19次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-20 08:55":
+      - /url: https://weibo.com/7720929036/RnvhUyeaA
+    - generic "来自 微博视频号"
+    - generic: "91"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 你问AI「这事能不能干」，它很容易顺着你说能。大事要是这么定，就危险了。三段提示词，先拆，再立，最后让它当裁判👇（原文在评论）
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#ChatGPT#":
+      - /url: //s.weibo.com/weibo?q=%23ChatGPT%23
+    - link "#提示词#":
+      - /url: //s.weibo.com/weibo?q=%23%E6%8F%90%E7%A4%BA%E8%AF%8D%23
+    - link "http://t.cn/AXlkp7ssEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5355822532984903
+      - img "http://t.cn/AXlkp7ss"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 01:35
+    - generic: 5次观看
+    - generic "0,3,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: "3"
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-17 13:39":
+      - /url: https://weibo.com/7720929036/Rn4RSrUyH
+    - generic "来自 微博视频号"
+    - generic: "87"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 【155个App拒绝了豆包】AI替你点外卖、打车，听着方便，但得平台先点头。据澎湃新闻10月14日报道，对豆包屏幕自动化操作说“不同意”的App共155款，按报道的生态分组，腾讯及关联生态66款、阿里及关联生态23款、快手及关联生态14款、美团及关联生态11款，DeepSeek也在列。
+    - text: 名单来自9月14日豆包发布的 ...展开
+    - generic: 
+    - generic: 01:53
+    - generic: 13次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-14 13:57":
+      - /url: https://weibo.com/7720929036/RmCHukSqQ
+    - generic "来自 微博视频号"
+    - generic: "48"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: AI都能写代码了，我买个冰箱还得挨家问客服？
+    - text: 哪家便宜、优惠怎么算、旧机谁搬、上楼安装收不收费……真正累人的，是这些没完没了的小事。
+    - text: 看完千问Go的买冰箱案例，我对个人AI助理的期待变得很具体：让AI把这些麻烦接过去，最后的选择留给我。
+    - text: 如果AI能替你跑腿，你第一件想交给它的事是什么？
+    - text: ...展开
+    - generic: 
+    - generic: 01:42
+    - generic: 5次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-10 19:31":
+      - /url: https://weibo.com/7720929036/Rm3b55rSw
+    - generic "来自 微博视频号"
+    - generic: "43"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#AI工具#":
+      - /url: //s.weibo.com/weibo?q=%23AI%E5%B7%A5%E5%85%B7%23
+    - link "#AI实用技巧#":
+      - /url: //s.weibo.com/weibo?q=%23AI%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%23
+    - link "#Agent#":
+      - /url: //s.weibo.com/weibo?q=%23Agent%23
+    - link "#FDE#":
+      - /url: //s.weibo.com/weibo?q=%23FDE%23
+    - link "http://t.cn/AXlG9bkoEli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5352545821065235
+      - img "http://t.cn/AXlG9bko"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 00:15
+    - generic: 7次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "10-9 19:13":
+      - /url: https://weibo.com/7720929036/RlTDsgzMz
+    - generic "来自 微博视频号"
+    - generic: "58"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。
+    - text: 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？
+    - link "#AI#":
+      - /url: //s.weibo.com/weibo?q=%23AI%23
+    - link "#人工智能#":
+      - /url: //s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23
+    - link "#孙宇晨#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AE%87%E6%99%A8%23
+    - link "#邵艾伦#":
+      - /url: //s.weibo.com/weibo?q=%23%E9%82%B5%E8%89%BE%E4%BC%A6%23
+    - link "#孙学#":
+      - /url: //s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%A6%23
+    - link "#薄肌理论#":
+      - /url: //s.weibo.com/weibo?q=%23%E8%96%84%E8%82%8C%E7%90%86%E8%AE%BA%23
+    - link "http://t.cn/AXlLsXV9Eli-AI的微博视频":
+      - /url: https://video.weibo.com/show?fid=1034:5352164852432942
+      - img "http://t.cn/AXlLsXV9"
+      - text: Eli-AI的微博视频
+    - generic: 
+    - generic: 04:32
+    - generic: 8次观看
+    - generic "0,1,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: "1"
+      - button "赞":
+        - text: 赞
+  - article:
+    - link "Eli-AI":
+      - /url: //weibo.com/u/7720929036
+    - link "Eli-AI":
+      - /url: ""
+    - link "GitHub超话":
+      - /url: //weibo.com/p/100808d3b7c913cd04ebfec0e9ec32cb6fd58c
+    - link "10-8 21:16":
+      - /url: https://weibo.com/7720929036/RlL0WwIyR
+    - generic "来自 微博网页版"
+    - generic: "239"
+    - generic: 阅读
+    - generic: 推广
+    - generic "更多": 
+    - text: GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。
+    - text: 租房、换工作、想学新技能——这些问题，可以先去《高性价比人生指南》找对应章节。
+    - text: 这次用59秒分享：目录怎么找、成本和收益怎么看、来源怎么继续查。先存目录，需要时再翻。
+    - text: 想要整理好的文档，评论「指南」。
+    - link "#GitHub#":
+      - /url: //s.weibo.com/weibo?q=%23GitHub%23
+    - text: ...展开
+    - generic: 
+    - generic: 00:59
+    - generic: 37次观看
+    - generic "0,0,0":
+      - generic "转发": 
+      - generic: 转发
+      - generic "评论": 
+      - generic: 评论
+      - button "赞":
+        - text: 赞
+  - generic: 你可能感兴趣的人
+  - generic: 
+  - generic: 换一换
+  - link "雷霆中文网 雷霆中文网okcthunder.cn官方微博  关注":
+    - /url: /u/2769897145
+    - generic: 雷霆中文网
+    - generic: 雷霆中文网okcthunder.cn官方微博
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "篮球扒倍镜 体育博主  关注":
+    - /url: /u/2022171303
+    - generic: 篮球扒倍镜
+    - generic: 体育博主
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - link "新浪NBA 新浪NBA官方微博  关注":
+    - /url: /u/1736329970
+    - generic: 新浪NBA
+    - generic: 新浪NBA官方微博
+    - button " 关注":
+      - generic: 
+      - generic: 关注
+  - generic: 
+  - generic: 帮助中心
+  - link "微博客服 4000-960-960":
+    - /url: https://kefu.weibo.com/?cs_source=2
+  - link "自助服务中心":
+    - /url: https://kefu.weibo.com/selfservice?bottomnav=1&wvr=6
+  - link "常见问题":
+    - /url: https://kefu.weibo.com/allfaq?bottomnav=1&wvr=6
+  - generic: 
+  - generic: 合作&服务
+  - link "微博营销":
+    - /url: https://marketing.hd.weibo.com/?fr=C003001_P001
+  - generic: 合作热线 4000-980-980
+  - link "开放平台":
+    - /url: https://open.weibo.com/?bottomnav=1&wvr=6
+  - generic: 更多
+  - generic: 
+  - generic: 举报中心
+  - generic: 违规投诉 010-60618076
+  - link "处理大厅":
+    - /url: https://service.account.weibo.com/?bottomnav=1&wvr=6
+  - link "舞弊举报":
+    - /url: https://weibo.com/aj/static/report.html?_wv=6
+  - generic: 更多
+  - generic: 
+  - generic: 关于微博
+  - link "About Weibo":
+    - /url: http://ir.weibo.com/
+  - generic: 客户端下载
+  - link "微博招聘":
+    - /url: https://career.sina.com.cn/?bottomnav=1&wvr=6
+  - generic: 网站备案信息
+  - link "微博隐私安全中心":
+    - /url: https://privacy.weibo.com
+  - link "微博数据AI大模型开放合作声明":
+    - /url: https://weibo.com/pagemesh/static/weibo-data-ai-cooperation-statement.html
+  - text: Copyright © 2009-2026
+  - link "营业执照":
+    - /url: https://weibo.com/aj/static/business_license.html
+- text: 
+- generic: 
+- text:   
+- generic: 快捷发布
+- generic: 
+- textbox "有什么新鲜事想分享给大家？": "AI视频工具更新，旧电视换个清爽桌面 10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。 ① MiniMax H3：11项社区工具补进索引 MiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。 这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。 ② 消费显卡“翻倍”，究竟快在哪里？ gpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。 到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。 ③ 让AI助手给旧电视换个清爽桌面 开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。 需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。 ④ AI加入阿尔茨海默病研发 10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。 公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。 这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？ 来源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者说明、Pathos AI公告；详见配图。 #AI日报# #人工智能# #MiniMax# #AI工具# #AI资讯#"
+- generic: "888"
+- text: 内容由AI生成
+- generic "删除": 
+- generic: 
+- text: 焦点
+- generic "删除": 
+- generic: 
+- text: 焦点
+- generic "删除": 
+- generic: 
+- text: 焦点
+- generic "删除": 
+- generic: 
+- text: 焦点
+- generic "删除": 
+- generic: 
+- text: 焦点
+- generic "添加":
+  - generic: 
+  - button "Choose File"
+- generic: 表情
+- generic: 图片
+- generic: 视频
+- generic: 话题
+- generic: 头条文章
+- generic: 更多
+- generic "定时微博":
+- img "定时微博"
+- generic "公开"
+- generic: 
+- button "发送":
+  - generic: 发送

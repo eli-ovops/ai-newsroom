@@ -1,0 +1,27 @@
+{
+  "selected_candidates": [
+    1,
+    4,
+    5,
+    6
+  ],
+  "scope": "homepage only",
+  "date": "2026-10-25",
+  "weekday": "Sunday",
+  "native_dimensions": [
+    1086,
+    1448
+  ],
+  "double_dimensions": [
+    2172,
+    2896
+  ],
+  "actual_png_viewed": true,
+  "overflow": false,
+  "master_style_reused": true,
+  "asset_extraction_repeated": false,
+  "new_archive_created": false,
+  "png_sha256": "59d0f71e9f7d4f72df57787c2bbb9cbbf10f71d7dccb7939d15d9a9dd71c20bd",
+  "user_approval": "user-approval.json",
+  "user_approved_sha256": "59d0f71e9f7d4f72df57787c2bbb9cbbf10f71d7dccb7939d15d9a9dd71c20bd"
+}

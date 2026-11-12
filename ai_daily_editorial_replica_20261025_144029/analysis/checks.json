@@ -1,0 +1,40 @@
+{
+  "repeat_png_sha256_identical": true,
+  "repeat_2x_png_sha256_identical": true,
+  "dimensions": {
+    "[REDACTED_EMAIL]": [
+      2172,
+      2896
+    ],
+    "replacement.png": [
+      1086,
+      1448
+    ],
+    "reference.png": [
+      1086,
+      1448
+    ],
+    "deep-purple.png": [
+      1086,
+      1448
+    ]
+  },
+  "replacement_old_date_weekday_and_headlines_absent": true,
+  "replacement_weekday": "星期一",
+  "overflow_rejection": "Title overflow: '这是一条明显过长而且不应该被悄悄缩小或删除内容的测试标题', 1652.0px > 671px. Shorten headline or set explicit headlineLines; text is never dropped.",
+  "source_original_unchanged_sha256": "4b29afe2f04d9a020702f149fa0cd65e6a6116b12faad4f501071e0ad53b39ad",
+  "font_fallback": "not possible: glyph cmap verified and vector outlines emitted",
+  "browser": "one-shot headless Google Chrome; browser.close executed; no HTTP service",
+  "runtime_versions": {
+    "Pillow": "11.3.0",
+    "fonttools": "4.60.2",
+    "playwright": "1.60.0"
+  },
+  "daily_command": "python3 build.py --config config/baseline.json",
+  "daily_command_completed": true,
+  "custom_matches_reference": true,
+  "custom_2x_dimensions": [
+    2172,
+    2896
+  ]
+}

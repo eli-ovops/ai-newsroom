@@ -1,0 +1,27 @@
+{
+  "cover": {
+    "status": "unchanged; previous render retained"
+  },
+  "pages": [
+    "01-cover",
+    "02-minimax",
+    "03-gpu",
+    "04-tv",
+    "05-pathos"
+  ],
+  "last_exported": [
+    "03-gpu",
+    "04-tv",
+    "05-pathos"
+  ],
+  "size": [
+    1086,
+    1448
+  ],
+  "master_reused": true,
+  "detail_Page_reused": true,
+  "new_fonts": false,
+  "reextracted_assets": false,
+  "browser_closed": true,
+  "visual_review": "See delivery.json for actual review scope"
+}

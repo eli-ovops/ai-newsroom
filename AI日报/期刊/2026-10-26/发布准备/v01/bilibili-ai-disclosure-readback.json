@@ -1,0 +1,31 @@
+{
+  "url": "https://t.bilibili.com/",
+  "observed": {
+    "child": [
+      {
+        "aria": null,
+        "checked": false,
+        "cls": "bili-dyn-publishing__option-left",
+        "role": null,
+        "tag": "DIV"
+      },
+      {
+        "aria": null,
+        "checked": false,
+        "cls": "bili-dyn-publishing__option-title fs-small",
+        "role": null,
+        "tag": "DIV"
+      },
+      {
+        "aria": null,
+        "checked": false,
+        "cls": "bili-dyn-publishing__option-desc fs-small",
+        "role": null,
+        "tag": "DIV"
+      }
+    ],
+    "cls": "bili-dyn-publishing__option create",
+    "html": "<div class=\"bili-dyn-publishing__option create\"><div class=\"bili-dyn-publishing__option-left\"><div class=\"bili-dyn-publishing__option-title fs-small\">\n            AI辅助创作声明\n          </div></div> <div class=\"bili-dyn-publishing__option-desc fs-small\">\n          勾选后，将在图片上标识该内容使用人工智能合成技术\n        </div></div>"
+  },
+  "conclusion": "UNKNOWN"
+}

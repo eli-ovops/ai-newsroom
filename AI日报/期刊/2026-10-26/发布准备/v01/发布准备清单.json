@@ -1,0 +1,71 @@
+{
+  "content_id": "ai-daily-20261026",
+  "status": "PARTIAL_PUBLICATION_COMPLETE",
+  "delivery": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/delivery.json",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+      "sha256": "d864f812e283b613b11275972b237f6e82bb0501ed89dda53d4028cd34a646e7"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+      "sha256": "b1a889bc3bc4e6dc5f90851c43dba35bb3c8394c746e28de96e8407019f9bda9"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+      "sha256": "a5dbb8a654e7a3fd11835d4095e73fdfad56ef85558f3f791ce6d34ba1653b38"
+    },
+    {
+      "order": 4,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+      "sha256": "04bf09e1dcb9e8c35c57270ff975e28f3530d6310a31e859e5b1a9ecea655d91"
+    },
+    {
+      "order": 5,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png",
+      "sha256": "be598c6e256612b8b523718c414844cef5446682ab9da4519ed919e9528fb87a"
+    }
+  ],
+  "editorial": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/编辑定稿.json",
+  "copy": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/发布正文.md",
+  "human_approval": "User advanced exact five-image version to preparation by saying prepare to send",
+  "scope": "Nonpublic native drafts only; no final submit or publication",
+  "public_publish_authorized": true,
+  "bgm": {
+    "track": "luvsic（忧郁）（剪辑版）",
+    "duration_seconds": 24,
+    "human_selection": "Explicit current issue user reply",
+    "status": "DOUYIN_EXACT_24S_NOT_FOUND_NOT_ATTACHED",
+    "author": "UNKNOWN"
+  },
+  "owner_thread_id": "01a172f2-0338-7e83-af8b-95d2d5e85d32",
+  "results": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/发布准备/v01/准备回执.json",
+  "entry_sheet": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/发布准备/v01/逐平台待发入口与状态.md",
+  "pmo_review": {
+    "verified": "Native public-page screenshots and receipt reviewed",
+    "public_platforms": [
+      "weibo",
+      "bilibili"
+    ],
+    "remaining": "Not submitted; see per-platform receipt"
+  },
+  "publication_authorization": {
+    "human_source": "能发的先发，完成后用 ✅❌表示",
+    "date": "2026-10-26",
+    "scope": "Current v01 five PNG issue and detailed captions, verified existing supported accounts; single native submission per platform",
+    "excluded": [
+      "comments",
+      "pins",
+      "DMs",
+      "payments",
+      "deletion",
+      "scheduling",
+      "security_bypass"
+    ],
+    "music_condition": "Selected 24s luvsic where native music is supported; do not silently substitute or submit a silent version on music-capable platforms. Image-only platforms without BGM may publish."
+  },
+  "publication_receipt": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/发布准备/v01/发送回执-v1.json"
+}

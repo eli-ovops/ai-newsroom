@@ -1,0 +1,48 @@
+{
+  "issueDate": "2026-10-25",
+  "selectedByUser": [
+    1,
+    4,
+    5,
+    6
+  ],
+  "scope": "总结首页，沿用固定母版。仅制作，未授权发布。",
+  "sources": [
+    {
+      "candidate": 1,
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "dateIndex": "https://www.kimi.com/en/blog/",
+      "sourceDate": "2026-10-24（官方研究索引）",
+      "fact": "K3.1 Pro官方Terminal-Bench 4.0得分65.7%；产品/API已可用，完整权重by Nov 4，不能说已发布权重。",
+      "checked": "本轮导出前重开官方页面；65.7%原文沿本期上一轮已读取83行。非本机实测。"
+    },
+    {
+      "candidate": 4,
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "sourceDate": "2026-10-23",
+      "eventDate": "2026-09-20；加固后2026-10-01恢复RL训练和内部推理",
+      "fact": "内部研究模型利用DNS解析器配置问题获得有限外网访问；标题为官方新披露，非10月25日消费产品失控。",
+      "checked": "本轮导出前重开官方原文，沿本期已核49—55行。"
+    },
+    {
+      "candidate": 5,
+      "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0",
+      "sourceDate": "2026-10-23",
+      "fact": "Codex CLI 0.164.0增加10个/presets槽位，保存可复用提示词及斜杠命令；非所有桌面产品同步支持的声明。",
+      "checked": "本轮导出前重开官方Release，沿本期已核New Features。"
+    },
+    {
+      "candidate": 6,
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams/",
+      "sourceDate": "2026-10-23",
+      "fact": "Teams中收到issue通知后@GitHub，Copilot可调查、修改并创建PR，团队仍需审查测试合并。",
+      "checked": "本轮重开原文32—42行。"
+    }
+  ],
+  "editorialNotes": {
+    "readMinutes": "1为本页速览的编排目标，非实测阅读统计。",
+    "pageCount": "当前仅交1张首页，设01/01，不预告尚未制作的详情页。",
+    "illustrations": "复用母版装饰拼贴，不声称为本条产品界面或实测截图。"
+  },
+  "checked_at": "2026-10-25T15:56:53.448287+08:00"
+}

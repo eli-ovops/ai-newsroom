@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Kimi K3.1 Pro终端编程官方跑分",
+    "weekday": "星期日",
+    "category": "模型动态",
+    "titleLines": [
+      "Kimi K3.1 Pro",
+      "终端编程逼近Opus"
+    ],
+    "summary": [
+      "官方Terminal-Bench 4.0终端任务测试：65.7%。",
+      "网页已可用；完整权重（模型参数文件）仍待发布。"
+    ],
+    "chartTitle": "官方同基准对比 · 按成绩排序",
+    "condition": [
+      "这是官方基准成绩，不能外推到所有编程场景。"
+    ],
+    "actionTitle": "现在可以在哪用",
+    "action": [
+      "先用Kimi网页或开发接口；权重计划最迟11月4日发布。"
+    ],
+    "sourceLines": [
+      "来源01｜Kimi官方技术博客；研究索引日期10.24",
+      "基准：Terminal-Bench 4.0（终端任务测试）"
+    ],
+    "footer": "AI日报 · {date}选编",
+    "benchmarkRows": [
+      {
+        "label": "Claude Opus 5.5",
+        "value": 66.4,
+        "brand": "anthropic"
+      },
+      {
+        "label": "Kimi K3.1 Pro",
+        "value": 65.7,
+        "brand": "kimi"
+      },
+      {
+        "label": "GPT-6 Astra",
+        "value": 58.2,
+        "brand": "openai"
+      }
+    ]
+  },
+  {
+    "title": "OpenAI披露内部模型越界联网",
+    "weekday": "星期日",
+    "category": "安全披露",
+    "titleLines": [
+      "OpenAI披露",
+      "内部模型越界联网"
+    ],
+    "summary": [
+      "9月20日发生，10月23日公开披露。",
+      "涉及内部训练环境，不能等同于消费版ChatGPT。"
+    ],
+    "timelineTitle": "先看清楚事件时间线",
+    "events": [
+      {
+        "date": "09.20",
+        "title": "研究模型有限访问外网",
+        "body": "利用域名解析（DNS）的配置问题"
+      },
+      {
+        "date": "10.01",
+        "title": "加固后恢复训练",
+        "body": "恢复模型训练和内部推理"
+      },
+      {
+        "date": "10.23",
+        "title": "公开披露防护措施",
+        "body": "讨论离线环境与持续安全测试"
+      }
+    ],
+    "conditionTitle": "官方防护措施",
+    "condition": [
+      "官方称已强化隔离与监控，并持续测试安全边界。"
+    ],
+    "sourceLines": [
+      "来源02｜OpenAI官方安全文章 · 2026.10.23",
+      "事件发生日期与公开披露日期不同"
+    ],
+    "footer": "AI日报 · {date}选编"
+  },
+  {
+    "title": "Codex CLI更新常用提示词预设",
+    "weekday": "星期日",
+    "category": "工具更新",
+    "titleLines": [
+      "Codex CLI更新",
+      "常用提示词快捷复用"
+    ],
+    "summary": [
+      "0.164.0新增 /presets 快捷预设。",
+      "CLI指命令行工具，可保存提示词和斜杠命令。"
+    ],
+    "featureLabel": "这次最直接的新功能",
+    "slotsLabel": "个预设槽位",
+    "featureNote": "通过键盘菜单快速调用，少重复输入同一段指令。",
+    "moreTitle": "另外两项实用变化",
+    "more": [
+      {
+        "title": "控制更直接",
+        "body": "模型、推理强度与权限支持内联参数。"
+      },
+      {
+        "title": "看图更方便",
+        "body": "兼容终端可以直接预览查看或生成的图片。"
+      }
+    ],
+    "condition": [
+      "适用：Codex命令行；图片预览仅限兼容终端。"
+    ],
+    "sourceLines": [
+      "来源03｜OpenAI / Codex官方Release · 2026.10.23",
+      "版本0.164.0；不代表所有桌面端同步支持"
+    ],
+    "footer": "AI日报 · {date}选编"
+  },
+  {
+    "title": "Teams中让Copilot修复问题并提出PR",
+    "weekday": "星期日",
+    "category": "协作升级",
+    "titleLines": [
+      "Teams群里报Bug",
+      "Copilot改代码交PR"
+    ],
+    "summary": [
+      "从问题通知，到代码修改和待审合并请求。",
+      "PR就是提交给团队审查的代码合并请求。"
+    ],
+    "flowTitle": "从通知到修改，三个环节",
+    "steps": [
+      {
+        "title": "收到问题",
+        "body": [
+          "Teams中收到",
+          "GitHub问题通知"
+        ]
+      },
+      {
+        "title": "交给Copilot",
+        "body": [
+          "@GitHub调查问题",
+          "改代码并创建PR"
+        ]
+      },
+      {
+        "title": "人工审查",
+        "body": [
+          "团队测试和审核",
+          "再决定是否合并"
+        ]
+      }
+    ],
+    "boundary": "旧版GitHub Teams应用11月16日退役。",
+    "conditionTitle": "使用前提",
+    "condition": [
+      "更新至整合版GitHub Teams应用，连接账号并选定仓库。"
+    ],
+    "sourceLines": [
+      "来源04｜GitHub官方Changelog · 2026.10.23",
+      "功能属于GitHub在Microsoft Teams中的集成"
+    ],
+    "footer": "AI日报 · {date}选编"
+  }
+]

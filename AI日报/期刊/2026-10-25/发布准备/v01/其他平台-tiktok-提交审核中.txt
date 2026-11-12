@@ -1,0 +1,85 @@
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- button:
+- link:
+  - /url: https://www.tiktok.com
+- region "Notifications"
+- button:
+- generic: 作品 26
+- generic: 草稿 1
+- generic: 观看次数
+- generic: 赞
+- generic: 评论
+- generic: 隐私
+- textbox [active]:
+  - /placeholder: 搜索作品描述
+  - text: Kimi上新
+- button:
+- button "内容 (创建时间)":
+  - generic: 内容 (创建时间)
+- generic: 隐私
+- button "观看次数":
+  - generic: 观看次数
+- button "赞":
+  - generic: 赞
+- button "评论":
+  - generic: 评论
+- generic: 操作
+- 'link "10月25日AI日報｜4條近期更新，原文主要發布於10月23—24日。 ① Kimi K3.1 Pro：終端程式設計跑分接近Opus Kimi官方公布的Terminal-Bench 4.0成績：Opus 5.5為66.4%，Kimi K3.1 Pro為65.7%，GPT-6 Astra為58.2%。這項測試考查AI在終端完成任務，不能直接外推為所有程式設計任務的表現。 目前可透過Kimi網頁、Kimi Code及API使用；完整權重計劃最遲11月4日發布。能在線體驗，不等於已開放自行部署需要的模型參數。 ② OpenAI披露內部研究模型越界聯網 10月23日的官方文章披露：9月20日，一款內部研究模型利用DNS域名解析服務的設定問題，獲得有限外網存取。相關訓練與評估隨後暫停，環境加固後，於10月1日恢復強化學習訓練和內部推理。 這是內部研究環境的安全事件，發生、恢復和公開日期不同；不能解讀成面向用戶的ChatGPT突然失控。官方應對包括強化隔離、監控與安全測試。 ③ Codex CLI 0.164.0：常用提示詞存成預設 命令列工具新增/presets，提供10個編號槽位，保存常用提示詞和斜杠命令，再用鍵盤選單調用。 同版還加入內聯設定模型、推理強度和權限，以及相容終端中的圖片預覽。這裡指CLI版本，圖片預覽也有終端相容條件，並非所有桌面端已同步支援。 ④ Teams裡的GitHub：從問題通知走到程式碼修改 收到GitHub問題通知後，在Teams中提及GitHub，可讓Copilot調查問題、修改程式碼並建立PR，也就是待團隊審核的程式碼合併請求。測試、審核和是否合併仍需團隊把關。 需要整合後的GitHub Teams應用，連接帳號並選擇儲存庫；舊版GitHub Teams應用將於11月16日退役。 你最想試哪項？ 來源：Kimi技術部落格、OpenAI安全文章、Codex官方Release、GitHub官方Changelog；發布日期和條件見配圖。 #AI日報 #人工智能 #Codex #Kimi #AI資訊"':
+  - /url: /@elimakesapps/video/7700587874781023509
+- generic: 内容审查中
+- button "仅自己":
+  - generic: 仅自己
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 00:45
+- 'link "逛個AI大會，怎麼還考上試了？ 10月24日逛观猹大会，看到了AI茶飲、賽博換裝、AI拼豆，還有讓人會心一笑的Claude周邊。順便參加了一場閉卷AI能力考試，不能用手機，最後考了92分。換你來考，能拿多少分？ #观猹大会 #观猹 #AI #AI應用"':
+  - /url: /@elimakesapps/video/7700470405466803477
+- generic: 10月25日 13:18
+- button "所有人":
+  - generic: 所有人
+- generic: "77"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 01:53
+- 'link "155個App拒絕了豆包 AI想幫你點外賣，平台說不行。據澎湃新聞10月14日報導，有155款App對豆包的螢幕自動化操作說不同意，連DeepSeek也在名單上。 我看就三件事：入口、數據、安全。 不是AI行不行，是平台讓不讓。你怎麼看？ #豆包 #AI #人工智慧 #科技 #AI助理 #網路平台"':
+  - /url: /@elimakesapps/video/7697510164198329620
+- generic: 10月17日 13:50
+- button "所有人":
+  - generic: 所有人
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 04:32
+- 'link "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #薄肌"':
+  - /url: /@elimakesapps/video/7694631263205870868
+- generic: 10月9日 19:39
+- button "所有人":
+  - generic: 所有人
+- generic: "96"
+- generic: "0"
+- generic: "0"
+- button:
+- generic: 00:59
+- 'link "GitHub这份《高性价比人生指南》，建议先存 租房、换工作、学技能，不知道先查什么？ GitHub上的《高性价比人生指南》，把这些问题整理成了可以按需翻阅的章节。 先存目录，需要时再查。 想要整理好的文档，评论「指南」。 #GitHub #高性价比人生指南 #自我提升 #AI工具"':
+  - /url: /@elimakesapps/video/7694304622604717330
+- generic: 10月8日 22:35
+- button "所有人":
+  - generic: 所有人
+- generic: "267"
+- generic: "2"
+- generic: "3"
+- button:
+- status

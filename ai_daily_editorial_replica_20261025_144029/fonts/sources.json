@@ -1,0 +1,47 @@
+[
+  {
+    "file": "NotoSansCJKsc-Black.otf",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Black.otf",
+    "sha256": "2267c4a0312d267dff8c0d1609948f7d949a3da8be3e126f5e2690cb9cc883b4"
+  },
+  {
+    "file": "Noto-LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/LICENSE",
+    "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+  },
+  {
+    "file": "Anton-Regular.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/Anton-Regular.ttf",
+    "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+  },
+  {
+    "file": "Anton-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/anton/OFL.txt",
+    "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+  },
+  {
+    "file": "BodoniModa.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa%5Bopsz,wght%5D.ttf",
+    "sha256": "550f5e34ee0a828d7941b1fe9bc58b34e5260d3f33a61532e6d0a0114e79a5cf"
+  },
+  {
+    "file": "Bodoni-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+    "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046"
+  },
+  {
+    "file": "NotoSansCJKsc-Regular.otf",
+    "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/main/Sans/OTF/SimplifiedChinese/NotoSansCJKsc-Regular.otf",
+    "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+  },
+  {
+    "file": "NotoSerifDisplay.ttf",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifdisplay/NotoSerifDisplay%5Bwdth,wght%5D.ttf",
+    "sha256": "4b661adcf6a5d38bf5befdc4d976e8a7238a4aeb57e62c1c1a67775380a09df9"
+  },
+  {
+    "file": "NotoSerifDisplay-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifdisplay/OFL.txt",
+    "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+  }
+]

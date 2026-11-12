@@ -1,0 +1,81 @@
+- banner:
+  - link "首页":
+    - /url: //www.bilibili.com
+    - generic: 首页
+  - link "番剧":
+    - /url: //www.bilibili.com/anime/
+    - generic: 番剧
+  - link "直播":
+    - /url: //live.bilibili.com
+    - generic: 直播
+  - link "游戏中心":
+    - /url: //game.bilibili.com/platform
+    - generic: 游戏中心
+  - link "会员购":
+    - /url: //show.bilibili.com/platform/home.html?msource=pc_web
+    - generic: 会员购
+  - link "漫画":
+    - /url: //manga.bilibili.com?from=bill_top_mnav
+    - generic: 漫画
+  - link "赛事":
+    - /url: //www.bilibili.com/match/home/
+    - generic: 赛事
+  - link "下载客户端":
+    - /url: //app.bilibili.com/
+    - generic: 下载客户端
+  - textbox "deepseek"
+  - link:
+    - /url: //space.bilibili.com/432834855
+  - link "大会员":
+    - /url: //account.bilibili.com/big
+    - generic: 大会员
+  - link "5 消息":
+    - /url: //message.bilibili.com
+    - generic: "5"
+    - generic: 消息
+  - link "动态":
+    - /url: //t.bilibili.com/
+    - generic: 动态
+  - link "收藏":
+    - /url: //space.bilibili.com/432834855/favlist
+    - generic: 收藏
+  - link "历史":
+    - /url: //www.bilibili.com/history
+    - generic: 历史
+  - link "创作中心":
+    - /url: //member.bilibili.com/platform/home
+    - generic: 创作中心
+  - link "投稿":
+    - /url: //member.bilibili.com/platform/upload/video/frame
+    - generic: 投稿
+- generic: AI视频更新，旧电视换清爽桌面
+- generic: Eli-AI
+- generic: 2026年10月26日 15:01 1浏览
+- paragraph:
+  - text: 10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。 ① MiniMax H3：11项社区工具补进索引 MiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。 这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。 ② 消费显卡“翻倍”，究竟快在哪里？ gpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。 到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。 ③ 让AI助手给旧电视换个清爽桌面 开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。 需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。 ④ AI加入阿尔茨海默病研发 10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。 公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。 这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？ 本文由AI辅助整理。来源见配图。
+  - link "#AI日报#":
+    - /url: //search.bilibili.com/all?keyword=AI%E6%97%A5%E6%8A%A5&from_source=web_dynamic_tag&spm_id_from=333.1369.0.0
+  - link "#人工智能#":
+    - /url: //search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&from_source=web_dynamic_tag&spm_id_from=333.1369.0.0
+  - link "#MiniMax#":
+    - /url: //search.bilibili.com/all?keyword=MiniMax&from_source=web_dynamic_tag&spm_id_from=333.1369.0.0
+  - link "#AI工具#":
+    - /url: //search.bilibili.com/all?keyword=AI%E5%B7%A5%E5%85%B7&from_source=web_dynamic_tag&spm_id_from=333.1369.0.0
+  - link "#AI资讯#":
+    - /url: //search.bilibili.com/all?keyword=AI%E8%B5%84%E8%AE%AF&from_source=web_dynamic_tag&spm_id_from=333.1369.0.0
+- tablist:
+  - generic: 评论
+  - generic: 赞与转发
+- tabpanel:
+  - button "最热":
+    - generic: 最热
+  - button "最新":
+    - generic: 最新
+  - button:
+  - generic: 轻轻敲醒沉睡的心灵，让我看看你的点评
+  - generic: 没有更多评论
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- generic: "0"
+- text: 顶部

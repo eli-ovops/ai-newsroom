@@ -1,0 +1,35 @@
+{
+  "status": "USER_ADVANCED_TO_PUBLICATION_PREPARATION",
+  "human_source": "不错，准备发送吧。你先准备发布。bgm我还需挑选过。",
+  "recorded_at": "2026-10-25T17:08:53.980874+08:00",
+  "scope": "five image graphic issue; latest Kimi sorted-chart revision; detailed caption preparation",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/01-cover.png",
+      "sha256": "c5217fd8ee7b562beba2d73e24eb26523bdfa0a0ba7b934d2f9274089eab4fec"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/02-kimi.png",
+      "sha256": "068e22e4ea579c3c0441ec46eebb636d010155ef5f42fd4bb31d110a40f54b4f"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/03-openai.png",
+      "sha256": "8684adc1764c94598777500696add6e61bb39a78cd581c090fcb7af14054319d"
+    },
+    {
+      "order": 4,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/04-codex.png",
+      "sha256": "533b5ecbd5832118978748ff6ebe5a4fa36bd3cebddac4f74b136117b6750610"
+    },
+    {
+      "order": 5,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/05-teams.png",
+      "sha256": "e4a1fbb2b821bbc38ce8777813297cbfaadc9db7308b07201b914294cf44104e"
+    }
+  ],
+  "bgm": "USER_SELECTION_PENDING",
+  "public_publish_authorized": false
+}

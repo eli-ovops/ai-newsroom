@@ -1,0 +1,22 @@
+{
+  "retrieved_at": "2026-10-26T14:22:04.959916+08:00",
+  "files": [
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/assets/aerial-home.jpg",
+      "url": "https://raw.githubusercontent.com/pengchujin/aerial-tv/main/site/img/home.jpg",
+      "bytes": 188660,
+      "sha256": "a873a34972fe6a8d2aba00b45f0cc1ad08c9339372879c2206ffb559ad46f3dd",
+      "git_blob_sha1": "360f46c0feec3160d180f51045b6ead928a458c9"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/assets/aerial-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/pengchujin/aerial-tv/main/LICENSE",
+      "bytes": 1067,
+      "sha256": "cb77d791da468f1ac31ff4ad9176ffa8833de3c4b91efc1d6e0a259da37e8c29",
+      "git_blob_sha1": "4cec4ee355a54271d06034fb661cffd14432e6d6"
+    }
+  ],
+  "license": "MIT; copyright 2026 pengchujin, exact notice retained in aerial-LICENSE.txt",
+  "usage": "Author project screenshot; never labelled as our TV or assistant execution",
+  "visual_review": "实际打开1600×900作者桌面截图，显示壁纸、应用栏；不含AI助手操作证据。按原比例完整展示。"
+}

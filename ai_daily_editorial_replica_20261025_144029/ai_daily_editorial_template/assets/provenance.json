@@ -1,0 +1,47 @@
+{
+  "source_sha256": "4b29afe2f04d9a020702f149fa0cd65e6a6116b12faad4f501071e0ad53b39ad",
+  "source": "../reference/reference.png",
+  "fixed_masthead": "Original fixed brand graphic only; date/English header/news/categories/footer not included.",
+  "crop_coordinates": {
+    "masthead": [
+      35,
+      70,
+      774,
+      276
+    ],
+    "neural-sphere": [
+      498,
+      378,
+      1086,
+      768
+    ],
+    "video-layers": [
+      748,
+      787,
+      1054,
+      966
+    ],
+    "code-layers": [
+      692,
+      983,
+      1054,
+      1166
+    ],
+    "city": [
+      719,
+      1176,
+      1053,
+      1365
+    ]
+  },
+  "neural_sphere_exclusion_local": [
+    0,
+    245,
+    174,
+    347
+  ],
+  "exclusion_reason": "Remove original headline ink; the illustration hidden behind those letters cannot be recovered from the flattened reference.",
+  "alpha": "White unmatte plus soft low-contrast paper suppression; no AI reconstruction.",
+  "paper": "Mirrored tiling from original blank left margin, not full-image background.",
+  "rights": "User-supplied reference; no independent rights/license claim for original artwork."
+}

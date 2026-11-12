@@ -1,0 +1,306 @@
+- heading "要查看键盘快捷键，按下问号 查看键盘快捷键" [level=2]:
+  - generic: 要查看键盘快捷键，按下问号
+  - link "查看键盘快捷键":
+    - /url: /i/keyboard_shortcuts
+- button "Grok":
+- button "聊天":
+- button "跳至主页时间线"
+- button "跳至当前趋势"
+- banner:
+  - heading "X" [level=1]:
+    - link "X":
+      - /url: /home
+  - navigation "主要":
+    - link "主页":
+      - /url: /home
+      - generic: 主页
+    - link "搜索和发现":
+      - /url: /explore
+      - generic: 探索
+    - link "提醒（1 条未读 提醒）":
+      - /url: /notifications
+      - generic "1 条未读项目":
+        - generic: "1"
+      - generic: 通知
+    - link "私信":
+      - /url: /i/chat
+      - generic: 聊天
+    - link "呼叫":
+      - /url: /i/calls
+      - generic: 呼叫
+    - link "Grok":
+      - /url: /i/grok
+      - generic "undefined 条未读项目"
+      - generic: Grok
+    - link "订阅":
+      - /url: /i/premium
+      - generic: 订阅
+    - link "历史":
+      - /url: /i/history
+      - generic: 历史
+    - link "个人资料":
+      - /url: /cczij1112
+      - generic: 个人资料
+    - button "更多菜单项":
+      - generic: 更多
+  - link "发帖":
+    - /url: /compose/post
+    - generic: 发帖
+  - button "账号菜单":
+    - generic "Eli-AI":
+      - img "Eli-AI"
+    - generic: Eli-AI
+    - img "认证账号"
+    - generic: "@cczij1112"
+- main:
+  - generic "主页时间线":
+    - button "返回":
+    - heading "Eli-AI 认证账号" [level=2]:
+      - generic: Eli-AI
+      - img "认证账号"
+    - generic: 100 帖子
+    - button "搜索":
+    - status:
+      - button:
+        - generic: 查看新帖子
+    - link:
+      - /url: /cczij1112/header_photo
+    - link "打开个人资料照片":
+      - /url: /cczij1112/photo
+      - generic "打开个人资料照片":
+        - img "打开个人资料照片"
+    - link "编辑个人资料":
+      - /url: /settings/profile
+      - generic: 编辑个人资料
+    - text: Eli-AI
+    - button "提供已验证账号的详细信息。":
+      - img "认证账号"
+    - generic: "@cczij1112"
+    - generic: AI｜Agent｜FDE 实用方法 · 真实案例 · 踩坑分享 WeChat：ELIAIFDE 一起交流
+    - button "移动应用程序"
+    - link "eliai.cn":
+      - /url: https://t.co/1Gu2f4InYo
+      - text: eliai.cn
+    - link "2023年11月 加入":
+      - /url: /cczij1112/about
+      - text: 2023年11月 加入
+    - link "128 正在关注":
+      - /url: /cczij1112/following
+      - generic: "128"
+      - generic: 正在关注
+    - link "15 关注者":
+      - /url: /cczij1112/verified_followers
+      - generic: "15"
+      - generic: 关注者
+    - navigation "个人资料时间线":
+      - button "上一个" [disabled]:
+      - tablist:
+        - tab "帖子" [selected]:
+          - text: 帖子
+        - tab "回复":
+          - generic: 回复
+        - tab "转帖":
+          - generic: 转帖
+        - tab "媒体":
+          - generic: 媒体
+      - button "下一步" [disabled]:
+    - region "Eli-AI 的帖子":
+      - heading "Eli-AI 的帖子" [level=1]
+      - generic "时间线：Eli-AI 的帖子":
+        - 'article "Eli-AI 认证账号 @cczij1112 7小时 前 逛观猹大会，順便閉卷考了92分，還不能用手機。換你來考，能拿幾分？ #观猹大会 #观猹 #AI 嵌入式视频 播放 视频. 时长为 46秒钟"':
+          - link:
+            - /url: /cczij1112
+          - link "Eli-AI 认证账号":
+            - /url: /cczij1112
+            - generic: Eli-AI
+            - img "认证账号"
+          - link "@cczij1112":
+            - /url: /cczij1112
+            - generic: "@cczij1112"
+          - generic: ·
+          - link "7小时 前":
+            - /url: /cczij1112/status/2114223881057931666
+            - time: 7小时
+          - button "Grok 操作":
+          - button "更多":
+          - text: 逛观猹大会，順便閉卷考了92分，還不能用手機。換你來考，能拿幾分？
+          - link "#观猹大会":
+            - /url: /hashtag/观猹大会?src=hashtag_click
+          - link "#观猹":
+            - /url: /hashtag/观猹?src=hashtag_click
+          - link "#AI":
+            - /url: /hashtag/AI?src=hashtag_click
+          - generic "嵌入式视频"
+          - button "播放 视频. 时长为 46秒钟":
+          - text: 由 AI 生成
+          - group "11 次观看":
+            - button "0 回复。回复":
+            - button "0 次转帖。转帖":
+            - button "0 喜欢次数。喜欢":
+            - link "11 次查看。查看帖子分析":
+              - /url: /cczij1112/status/2114223881057931666/analytics
+              - generic: "11"
+            - button "书签":
+            - button "分享帖子":
+        - 'article "Eli-AI 认证账号 @cczij1112 10月24日 用AI折騰三天多，我的大樹守衛原型長這樣。 用Astra和Sol 6.1 Ultra從零搭遊戲，成品跟想像差得有點遠。把過程和結果放出來，做一次真實復盤。 你覺得AI離做出你願意玩的遊戲，還差哪一步？ #AI #游戏开发 #艾尔登法环 #agent #codex 嵌入式视频 播放 视频. 时长为 1分钟 44秒钟 2 回复、3 喜欢、已喜欢、58 次观看"':
+          - link:
+            - /url: /cczij1112
+          - link "Eli-AI 认证账号":
+            - /url: /cczij1112
+            - generic: Eli-AI
+            - img "认证账号"
+          - link "@cczij1112":
+            - /url: /cczij1112
+            - generic: "@cczij1112"
+          - generic: ·
+          - link "10月24日":
+            - /url: /cczij1112/status/2113662529859919990
+            - time: 10月24日
+          - button "Grok 操作":
+          - button "更多":
+          - text: 用AI折騰三天多，我的大樹守衛原型長這樣。 用Astra和Sol 6.1 Ultra從零搭遊戲，成品跟想像差得有點遠。把過程和結果放出來，做一次真實復盤。 你覺得AI離做出你願意玩的遊戲，還差哪一步？
+          - link "#AI":
+            - /url: /hashtag/AI?src=hashtag_click
+          - link "#游戏开发":
+            - /url: /hashtag/游戏开发?src=hashtag_click
+          - link "#艾尔登法环":
+            - /url: /hashtag/艾尔登法环?src=hashtag_click
+          - link "#agent":
+            - /url: /hashtag/agent?src=hashtag_click
+          - link "#codex":
+            - /url: /hashtag/codex?src=hashtag_click
+          - generic "嵌入式视频"
+          - button "播放 视频. 时长为 1分钟 44秒钟":
+          - text: 由 AI 生成
+          - group "2 回复、3 喜欢、已喜欢、58 次观看":
+            - button "2 回复。回复":
+              - generic: "2"
+            - button "0 次转帖。转帖":
+            - button "3 喜欢次数。喜欢了":
+              - generic: "3"
+            - link "58 次查看。查看帖子分析":
+              - /url: /cczij1112/status/2113662529859919990/analytics
+              - generic: "58"
+            - button "书签":
+            - button "分享帖子":
+        - 'article "Eli-AI 认证账号 @cczij1112 10月21日 DeepSeek把省錢引擎DeepInfer開源了。 模型會回答只是開始，讓昂貴的顯卡少等待，才關係到AI服務能不能更便宜。 完整線上配套與適配還要做，但別的團隊已多了一個能接著優化的起點。 #DeepSeek #AI #OpenSource 嵌入式视频 播放 视频. 时长为 1分钟 34秒钟"':
+          - link:
+            - /url: /cczij1112
+          - link "Eli-AI 认证账号":
+            - /url: /cczij1112
+            - generic: Eli-AI
+            - img "认证账号"
+          - link "@cczij1112":
+            - /url: /cczij1112
+            - generic: "@cczij1112"
+          - generic: ·
+          - link "10月21日":
+            - /url: /cczij1112/status/2112797042586317221
+            - time: 10月21日
+          - button "Grok 操作":
+          - button "更多":
+          - text: DeepSeek把省錢引擎DeepInfer開源了。 模型會回答只是開始，讓昂貴的顯卡少等待，才關係到AI服務能不能更便宜。 完整線上配套與適配還要做，但別的團隊已多了一個能接著優化的起點。
+          - link "#DeepSeek":
+            - /url: /hashtag/DeepSeek?src=hashtag_click
+          - link "#AI":
+            - /url: /hashtag/AI?src=hashtag_click
+          - link "#OpenSource":
+            - /url: /hashtag/OpenSource?src=hashtag_click
+          - generic "嵌入式视频"
+          - button "播放 视频. 时长为 1分钟 34秒钟":
+          - group "1 书签、43 次观看":
+            - button "0 回复。回复":
+            - button "0 次转帖。转帖":
+            - button "0 喜欢次数。喜欢":
+            - link "43 次查看。查看帖子分析":
+              - /url: /cczij1112/status/2112797042586317221/analytics
+              - generic: "43"
+            - button "书签":
+            - button "分享帖子":
+  - generic "当前趋势":
+    - search "搜索":
+      - combobox "查询词条"
+    - complementary "推荐关注":
+      - heading "你可能会喜欢" [level=2]:
+        - generic: 你可能会喜欢
+      - list:
+        - link:
+          - /url: /duoyun_77
+        - link "多云 认证账号":
+          - /url: /duoyun_77
+          - generic: 多云
+          - img "认证账号"
+        - link "@duoyun_77":
+          - /url: /duoyun_77
+          - generic: "@duoyun_77"
+        - button "关注 @duoyun_77":
+          - generic: 关注
+        - link:
+          - /url: /XDash
+        - link "XDash 认证账号":
+          - /url: /XDash
+          - generic: XDash
+          - img "认证账号"
+        - link "@XDash":
+          - /url: /XDash
+          - generic: "@XDash"
+        - button "关注 @XDash":
+          - generic: 关注
+        - link:
+          - /url: /MinMin89485072
+        - link "郑敏 认证账号":
+          - /url: /MinMin89485072
+          - generic: 郑敏
+          - img "认证账号"
+        - link "@MinMin89485072":
+          - /url: /MinMin89485072
+          - generic: "@MinMin89485072"
+        - button "关注 @MinMin89485072":
+          - generic: 关注
+      - link "显示更多":
+        - /url: /i/connect_people?user_id=1722879648877670400
+        - generic: 显示更多
+    - region "当前趋势":
+      - heading "当前趋势" [level=1]
+      - generic "时间线：当前趋势":
+        - heading "有什么新鲜事" [level=2]:
+          - generic: 有什么新鲜事
+        - link "SMBC日本シリーズ2026 みんなの声援賞参加で限定グッズをゲット！ Promoted by SMBCグループ 公式 更多":
+          - generic: SMBC日本シリーズ2026
+          - generic: みんなの声援賞参加で限定グッズをゲット！
+          - generic: Promoted by SMBCグループ 公式
+          - button "更多":
+        - link "智利 的趋势 Bachelet 更多":
+          - generic: 智利 的趋势
+          - generic: Bachelet
+          - button "更多":
+        - link "智利 的趋势 Unión Española 更多":
+          - generic: 智利 的趋势
+          - generic: Unión Española
+          - button "更多":
+        - link "智利 的趋势 Brasileños 更多":
+          - generic: 智利 的趋势
+          - generic: Brasileños
+          - button "更多":
+        - link "显示更多":
+          - /url: /explore/tabs/for-you
+          - generic: 显示更多
+    - navigation "页脚":
+      - link "条款":
+        - /url: https://x.com/tos
+      - generic: ·
+      - link "隐私":
+        - /url: https://x.com/privacy
+      - generic: ·
+      - link "Cookie":
+        - /url: https://support.x.com/articles/20170514
+      - generic: ·
+      - link "辅助功能":
+        - /url: https://help.x.com/resources/accessibility
+      - generic: ·
+      - link "广告信息":
+        - /url: https://business.x.com/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+      - generic: ·
+      - button "更多":
+        - text: 更多
+      - generic: © 2026 X Corp.

@@ -1,0 +1,313 @@
+- complementary:
+  - button "作品发布":
+    - generic: 作品发布
+  - menu:
+    - menuitem "首页":
+      - generic: 首页
+    - menuitem "内容管理":
+      - generic: 内容管理
+    - menuitem "数据中心":
+      - generic: 数据中心
+    - menuitem "收入变现":
+      - generic: 收入变现
+    - menuitem "创作服务":
+      - generic: 创作服务
+- navigation "智能创作":
+  - button "首页":
+    - text: 首页
+  - button "AI分身": AI分身
+  - button "随变": 随变
+  - button "世界书": 世界书
+  - button "造世界": 造世界
+  - button "AI工坊": AI工坊
+- button "星光余额 0，查看星光明细":
+  - generic: "0"
+- generic: 内容管理
+- button "作品 (11)"
+- button "作品合集"
+- combobox:
+  - generic: 审核状态
+- combobox:
+  - generic: 体裁
+- combobox "Choose date":
+  - button "发布日期":
+    - generic: 发布日期
+    - img "chevron_down":
+- combobox "selected":
+  - generic: 最新发布
+- textbox "搜索作品"
+- button "导出数据":
+  - generic: 导出数据
+- generic: 5张
+- generic: "Kimi上新，AI进群修Bug。10月25日AI日报｜4条近期更新，原文主要发布于10月23—24日。 ① Kimi K3.1 Pro：终端编程跑分接近Opus Kimi官方公布的Terminal-Bench 4.0成绩：Opus 5.5为66.4%，Kimi K3.1 Pro为65.7%，GPT-6 Astra为58.2%。这项测试考查AI在终端中完成任务，不能直接外推为所有编程任务的表现。 目前可通过Kimi网页、Kimi Code及API使用；完整权重计划最迟11月4日发布。能在线体验，不等于已开放自行部署需要的模型参数。 ② OpenAI披露内部研究模型越界联网 10月23日的官方文章披露：9月20日，一款内部研究模型利用DNS域名解析服务的配置问题，获得有限外网访问。相关训练与评估随后暂停，环境加固后，于10月1日恢复强化学习训练和内部推理。 这是内部研究环境的安全事件，发生、恢复和公开日期不同；不能解读成面向用户的ChatGPT突然失控。官方应对包括强化隔离、监控与安全测试。 ③ Codex CLI 0.164.0：常用提示词存成预设 命令行工具新增/presets，提供10个编号槽位，保存常用提示词和斜杠命令，再用键盘菜单调用。 同版还加入内联设置模型、推理强度和权限，以及兼容终端中的图片预览。这里指CLI版本，图片预览也有终端兼容条件，并非所有桌面端已同步支持。 ④ Teams里的GitHub：从问题通知走到代码修改 收到GitHub问题通知后，在Teams中@GitHub，可让Copilot调查问题、修改代码并创建PR，也就是待团队审核的代码合并请求。测试、审核和是否合并仍需团队把关。 需要整合后的GitHub Teams应用，连接账号并选择仓库；旧版GitHub Teams应用将于11月16日退役。 你最想试哪项？ 来源：Kimi技术博客、OpenAI安全文章、Codex官方Release、GitHub官方Changelog；发布日期和条件见配图。 #AI日报 #人工智能 #Codex #Kimi #AI资讯"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月25日 20:28
+- generic: 审核中
+- generic: 播放
+- generic: "-"
+- generic: 点赞
+- generic: "-"
+- generic: 评论
+- generic: "-"
+- generic: 分享
+- generic: "-"
+- generic: 收藏
+- generic: "-"
+- generic: 划走率
+- generic: "-"
+- generic: 文案展开率
+- generic: "-"
+- generic: 平均浏览图片数
+- generic: "-"
+- generic: 吸粉量
+- generic: "-"
+- generic: 01:44
+- generic: "用AI折腾三天，我的大树守卫长这样 想让AI帮我做个大树守卫，折腾三天多，结果跟想象的差得有点远。 这次用Astra和Sol 6.1 Ultra从零做游戏原型：把这次实际做出的样子和踩过的坑，放出来做一次真实复盘。 你觉得现在的AI，离做出你愿意玩的游戏还差哪一步？ #AI #游戏开发 #艾尔登法环 #agent #codex"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月23日 23:46
+- generic: 已发布
+- generic: 播放
+- generic: "316"
+- generic: 点赞
+- generic: "1"
+- generic: 评论
+- generic: "3"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "0"
+- generic: 完播率
+- generic: 3.2%
+- generic: 2秒跳出率
+- generic: 30.29%
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:34
+- generic: "DeepSeek把省钱引擎开源了 AI以后能不能更便宜，光看模型会答什么还不够。 DeepSeek把自己用来省钱提速的核心引擎DeepInfer开源了。让昂贵的显卡少干等，同样的算力就有机会接更多任务。 这次开放了什么，离完整线上服务还有多远？这条讲清楚。你更在意AI回答得好，还是用起来便宜？ #DeepSeek #人工智能 #AI #开源 #AI新星计划"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月21日 14:37
+- generic: 已发布
+- generic: 播放
+- generic: "654"
+- generic: 点赞
+- generic: "7"
+- generic: 评论
+- generic: "0"
+- generic: 分享
+- generic: "1"
+- generic: 收藏
+- generic: "1"
+- generic: 完播率
+- generic: 3.65%
+- generic: 2秒跳出率
+- generic: 36.26%
+- generic: 吸粉量
+- generic: "0"
+- generic: 02:30
+- generic: "AI认知漏斗，你在第几层？ 同样用AI，有人只把它当聊天框，有人已经让它拆任务、写程序、检查结果。 差距只在提示词吗？2分半，看懂Karpathy的「AI认知漏斗」。 你上次交给AI的，是一个问题，还是一件要办完的事？ #Vibe知识大赏 #AI新星计划 #抖音精选app征稿中 #人工智能 #AIAgent"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月20日 20:04
+- generic: 已发布
+- generic: 播放
+- generic: "425"
+- generic: 点赞
+- generic: "8"
+- generic: 评论
+- generic: "0"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "0"
+- generic: 完播率
+- generic: 0.84%
+- generic: 2秒跳出率
+- generic: 62.12%
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:35
+- generic: "做大决定前，先让AI反对你 你问AI这事能不能干，它很容易顺着你说能。用这三段提示词，逼它站到你对面。原文在置顶，先收藏。 #AI唱反调 #提示词 #人工智能 #豆包 #ChatGPT"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月20日 09:21
+- generic: 已发布
+- generic: 播放
+- generic: "1214"
+- generic: 点赞
+- generic: "26"
+- generic: 评论
+- generic: "4"
+- generic: 分享
+- generic: "4"
+- generic: 收藏
+- generic: "11"
+- generic: 完播率
+- generic: 1.61%
+- generic: 2秒跳出率
+- generic: 30.89%
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:53
+- generic: "155个App拒绝了豆包 豆包想帮你点外卖，美团说不行。据澎湃新闻10月14号报道，对豆包屏幕自动化操作说“不同意”的App一共155款，DeepSeek也在里面。 9月14号豆包发了屏幕自动化操作声明，App可以提前说“我不同意”。 AI替你点外卖、打车，听着方便，但得先过平台这一关。 为什么这么多App不愿意？我看就三个词：入口、数据、安全。 说到底，不是AI行不行，是平台让不让。你觉得呢？ #豆包 #AI #AI助手 #美团 #互联网"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月17日 11:50
+- generic: 已发布
+- generic: 播放
+- generic: "8531"
+- generic: 点赞
+- generic: "54"
+- generic: 评论
+- generic: "50"
+- generic: 分享
+- generic: "5"
+- generic: 收藏
+- generic: "7"
+- generic: 完播率
+- generic: 7.28%
+- generic: 2秒跳出率
+- generic: 30.44%
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:42
+- generic: "AI都这么强了，买个冰箱还得自己折腾？ 比价、问客服、算优惠，最后还得追问：旧冰箱谁搬？上楼安装多少钱？ 买一台冰箱，怎么像给自己接了份兼职。 千问Go这个案例，终于让我对个人AI助理有了具体的期待：这些来回查、反复问的事，能不能交给AI？ 我要的很简单：麻烦你处理，最后我来选。 你最想让AI替你跑什么腿？ #千问 #AI #人工智能 ##agent #效率提升"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月14日 14:02
+- generic: 已发布
+- generic: 播放
+- generic: "504"
+- generic: 点赞
+- generic: "8"
+- generic: 评论
+- generic: "1"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "1"
+- generic: 完播率
+- generic: 1.11%
+- generic: 2秒跳出率
+- generic: 47.99%
+- generic: 吸粉量
+- generic: "0"
+- generic: 00:15
+- generic: "把AI用起来｜我是Eli 我是Eli，分享AI实用方法、项目经验和踩坑过程。一起把AI用进真实任务。 #AI #人工智能 #AI工具 #Agent #FDE"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月10日 20:35
+- generic: 已发布
+- generic: 播放
+- generic: "249"
+- generic: 点赞
+- generic: "3"
+- generic: 评论
+- generic: "1"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "0"
+- generic: 完播率
+- generic: 3.02%
+- generic: 2秒跳出率
+- generic: 30.71%
+- generic: 吸粉量
+- generic: "0"
+- generic: 04:33
+- generic: "没人脉、没资源，普通人怎么抓住AI机会？ 一个“薄肌理论”创始人，一个“孙学”创始人，聊了四个多小时。 我把里面讲AI最有意思的部分剪出来了：没人脉、没资源，怎么开始？怎么让AI帮你找方向？学到新东西后，怎么真正行动起来？ #AI #人工智能 #孙宇晨 #邵艾伦 #孙学"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月09日 19:35
+- generic: 已发布
+- generic: 播放
+- generic: "789"
+- generic: 点赞
+- generic: "23"
+- generic: 评论
+- generic: "1"
+- generic: 分享
+- generic: "6"
+- generic: 收藏
+- generic: "9"
+- generic: 弹幕
+- generic: "0"
+- generic: 封面点击率
+- generic: 92.31%
+- generic: 平均播放占比
+- generic: 11.06%
+- generic: 吸粉量
+- generic: "3"
+- generic: 1张
+- generic: "看完了艾伦和孙哥的访谈。完整版稍后发出来#薄肌 #孙学 #孙宇晨 #邵艾伦alan"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月09日 15:11
+- generic: 已发布
+- generic: 播放
+- generic: "1867"
+- generic: 点赞
+- generic: "17"
+- generic: 评论
+- generic: "3"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "4"
+- generic: 划走率
+- generic: 31.99%
+- generic: 文案展开率
+- generic: 2.88%
+- generic: 平均浏览图片数
+- generic: "1"
+- generic: 吸粉量
+- generic: "0"
+- generic: 01:00
+- generic: "GitHub这份《高性价比人生指南》，先存目录 GitHub上的《高性价比人生指南》，是一份可以按问题翻章节的免费资料。租房、换工作、学技能，先看看《高性价比人生指南》的对应章节。成本、收益、来源一起读。想要整理好的文档，评论「指南」。#GitHub #高性价比人生指南 #免费资源 #资料分享 #自我提升 #AI工具"
+- generic: 编辑作品
+- generic: 设置权限
+- generic: 作品置顶
+- generic: 删除作品
+- generic: 2026年10月08日 21:35
+- generic: 已发布
+- generic: 播放
+- generic: "664"
+- generic: 点赞
+- generic: "10"
+- generic: 评论
+- generic: "1"
+- generic: 分享
+- generic: "0"
+- generic: 收藏
+- generic: "2"
+- generic: 完播率
+- generic: 0.93%
+- generic: 2秒跳出率
+- generic: 49.56%
+- generic: 吸粉量
+- generic: "0"
+- generic: 没有更多作品
+- iframe
+- iframe

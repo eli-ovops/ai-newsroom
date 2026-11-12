@@ -1,0 +1,20 @@
+{
+  "url": "https://x.com/compose/post",
+  "inputs": [
+    {
+      "disabled": false,
+      "i": 0,
+      "outer": "<input accept=\"image/jpeg,image/png,image/webp,image/gif,video/mp4,video/quicktime\" multiple=\"\" tabindex=\"-1\" class=\"r-8akbif r-orgf3d r-1udh08x r-u8s1d r-xjis5s r-1wyyakw\" data-testid=\"fileInput\" type=\"file\">"
+    },
+    {
+      "disabled": false,
+      "i": 1,
+      "outer": "<input accept=\"image/jpeg,image/png,image/webp,image/gif,video/mp4,video/quicktime\" multiple=\"\" tabindex=\"-1\" class=\"r-8akbif r-orgf3d r-1udh08x r-u8s1d r-xjis5s r-1wyyakw\" data-testid=\"fileInput\" type=\"file\">"
+    }
+  ],
+  "attempts": [
+    "Choose File timeout 15s",
+    "Add photos or video timeout 10s"
+  ],
+  "filesAttached": 0
+}

@@ -1,0 +1,46 @@
+{
+  "issueDate": "2026-10-25",
+  "checked_at": "2026-10-25T16:40:03.722572+08:00",
+  "selected_candidates": [
+    1,
+    4,
+    5,
+    6
+  ],
+  "pages": [
+    {
+      "page": "01-cover",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v02/output/01-cover.png",
+      "sha256": "c5217fd8ee7b562beba2d73e24eb26523bdfa0a0ba7b934d2f9274089eab4fec"
+    },
+    {
+      "page": "02-kimi",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v02/output/02-kimi.png",
+      "sha256": "79bac8c6115788e550c1886a563f3f466b9016de57c7bd0380cdefacb0563fac"
+    },
+    {
+      "page": "03-openai",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v02/output/03-openai.png",
+      "sha256": "8684adc1764c94598777500696add6e61bb39a78cd581c090fcb7af14054319d"
+    },
+    {
+      "page": "04-codex",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v02/output/04-codex.png",
+      "sha256": "533b5ecbd5832118978748ff6ebe5a4fa36bd3cebddac4f74b136117b6750610"
+    },
+    {
+      "page": "05-teams",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v02/output/05-teams.png",
+      "sha256": "e4a1fbb2b821bbc38ce8777813297cbfaadc9db7308b07201b914294cf44104e"
+    }
+  ],
+  "original_homepage_preserved": true,
+  "new_cover_change": "pageCount only, 01/01 to 01/05",
+  "actual_exports_viewed": true,
+  "phone_check_width": 390,
+  "font_or_asset_research_repeated": false,
+  "source_links": "selected-sources.json",
+  "status": "READY_FOR_USER_REVIEW",
+  "published": false,
+  "zip_created": false
+}

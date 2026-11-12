@@ -1,0 +1,194 @@
+{
+  "content_id": "ai-daily-20261025",
+  "prepared_at": "2026-10-25T17:07:31.350126+08:00",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/01-cover.png",
+      "sha256": "c5217fd8ee7b562beba2d73e24eb26523bdfa0a0ba7b934d2f9274089eab4fec"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/02-kimi.png",
+      "sha256": "068e22e4ea579c3c0441ec46eebb636d010155ef5f42fd4bb31d110a40f54b4f"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/03-openai.png",
+      "sha256": "8684adc1764c94598777500696add6e61bb39a78cd581c090fcb7af14054319d"
+    },
+    {
+      "order": 4,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/04-codex.png",
+      "sha256": "533b5ecbd5832118978748ff6ebe5a4fa36bd3cebddac4f74b136117b6750610"
+    },
+    {
+      "order": 5,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/05-teams.png",
+      "sha256": "e4a1fbb2b821bbc38ce8777813297cbfaadc9db7308b07201b914294cf44104e"
+    }
+  ],
+  "caption": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/图文正文.json",
+  "title_chars": 15,
+  "body_chars": 1068,
+  "platforms": [
+    "douyin"
+  ],
+  "native_drafts_created": true,
+  "bgm": {
+    "status": "USER_REPLACED_CURRENT_POST_MEDIA_PLAYBACK_VERIFIED",
+    "track": "luvsic（忧郁）（剪辑版）",
+    "author": null,
+    "native_track_id": null,
+    "embedded_in_png": false,
+    "douyin": "Use the exact user-selected edition; verify author and preview before attaching.",
+    "other_platforms": "Use the same recording where native music support and availability permit.",
+    "scope": "Current post only; previous DJ song repair stopped",
+    "candidate": {
+      "title": "Starlight (纯享版)（剪辑版）",
+      "artist": "DJ沉念",
+      "duration": "01:30"
+    },
+    "user_confirmed_edition": true,
+    "audio_listening": "NOT_VERIFIED",
+    "duration_on_selection": "01:30",
+    "duration_after_reopen": "00:00",
+    "playback_after_reopen": "READY_STATE_4_ERROR_NULL_UNMUTED_PROGRESSING",
+    "duration_seconds": 24,
+    "title_evidence": "User screenshot; not reread from published player"
+  },
+  "public_publish_authorized": true,
+  "status": "OTHER_PLATFORMS_PARTIAL_PUBLICATION_COMPLETED_WITH_BLOCKERS",
+  "preparation_scope": "DOUYIN_NATIVE_DRAFT_ONLY",
+  "platform_scope": {
+    "status": "OTHER_EXISTING_SUPPORTED_GRAPHIC_PLATFORMS_AUTHORIZED",
+    "douyin": "ALREADY_SUBMITTED_DO_NOT_REPEAT",
+    "accounts": "Verify current account against account registry before each submission; do not resume explicit safety stops."
+  },
+  "douyin": {
+    "account": "Eli-Ai",
+    "status": "SUBMITTED_UNDER_REVIEW",
+    "title": "Kimi上新，AI进群修Bug",
+    "image_count": 5,
+    "description_native_count": 872,
+    "description_limit": 1000,
+    "native_topics": [
+      "AI日报",
+      "人工智能",
+      "Codex",
+      "Kimi",
+      "AI资讯"
+    ],
+    "ai_content_declaration": true,
+    "bgm_attached": true,
+    "published": false,
+    "evidence": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/douyin-draft.jpg",
+    "url": "https://www.douyin.com/note/7700581315996831030",
+    "bgm_saved_reopened": null,
+    "bgm_evidence": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/douyin-draft-bgm.jpg",
+    "prior_saved_state": "SAVED_AND_REOPENED_VERIFIED",
+    "public_status": "UNKNOWN",
+    "pmo_current_check": "Original chat tab image-upload entry no longer shows a resume-draft prompt. No upload, write, save or publish performed during this check.",
+    "pmo_current_evidence": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/douyin-original-tab-no-draft.jpg",
+    "user_reported_publication_history": {
+      "published": true,
+      "audio": "SILENT_PER_USER",
+      "deleted_by_user": true,
+      "source": "User explicitly stated published without sound, then deleted."
+    },
+    "browser_context": "Publisher specialist 01a172f2-0338-7e83-af8b-95d2d5e85d32 IAB2/tab1; not verified cross-chat",
+    "post_id": "7700581315996831030",
+    "submitted_at": "2026-10-25T20:28:00+08:00",
+    "published_by": "USER",
+    "public_visibility": "NOT_CONFIRMED"
+  },
+  "required_user_information": null,
+  "repair_review": {
+    "decision": "STOP_OLD_TRACK_REPAIR_USER_SUBMITTED_NEW_MUSIC",
+    "report": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/用户换乐发布后核验.md",
+    "evidence": "Media state JSON and report read by PMO",
+    "remaining": "Public visibility not confirmed; direct hearing not verified; no monitoring authorized"
+  },
+  "publication_authorization": {
+    "human_source": "ok了 其他平台呢。发布吧",
+    "date": "2026-10-25",
+    "scope": "Current issue v03 five images plus approved detailed copy; other existing supported graphic-post accounts, excluding Douyin already submitted",
+    "actions": [
+      "verify_account_and_no_duplicate",
+      "prepare_native_graphic_post",
+      "publish_once",
+      "read_native_receipt"
+    ],
+    "visibility": "public",
+    "excluded_actions": [
+      "comments",
+      "pins",
+      "DMs",
+      "follows",
+      "paid_services",
+      "deletion",
+      "scheduling",
+      "duplicate_Douyin"
+    ],
+    "bgm": "Prefer current issue user-selected luvsic recording on platforms supporting native music; do not silently substitute another song or render a video."
+  },
+  "other_platform_receipts": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/其他平台发布回执-v1.json",
+  "other_platform_results": {
+    "xiaohongshu": {
+      "status": "BLOCKED_LOGIN",
+      "submitted": false,
+      "url": null,
+      "bgm": "NOT_CHECKED"
+    },
+    "bilibili": {
+      "status": "EXISTING_PUBLISHED_POST_NATIVE_VERIFIED_NO_RESUBMISSION",
+      "submitted": true,
+      "url": "https://www.bilibili.com/opus/1263122978110963713",
+      "bgm": "NO_NATIVE_BGM_ENTRY_OBSERVED",
+      "aiDeclaration": "PREPARATION_SELECTED; PUBLISHED_NATIVE_LABEL_NOT_OBSERVED",
+      "publishedBy": "UNKNOWN_ALREADY_EXISTED_AT_CURRENT_CONTINUATION"
+    },
+    "weibo": {
+      "status": "PUBLIC_NATIVE_DETAIL_VERIFIED",
+      "submitted": true,
+      "url": "https://weibo.com/7720929036/Rol4dxVgN",
+      "bgm": "NO_NATIVE_BGM_ENTRY_OBSERVED"
+    },
+    "x": {
+      "status": "SUBMISSION_UNCONFIRMED_DO_NOT_REPEAT",
+      "submitted": null,
+      "url": null,
+      "bgm": "NO_NATIVE_BGM_ENTRY_OBSERVED"
+    },
+    "linkedin": {
+      "status": "BLOCKED_PHONE_VERIFICATION_ROUTE",
+      "submitted": false,
+      "url": "https://www.linkedin.com/check/china/add-phone?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Feli-chao-548a7a43b%2F&trk=cp_haspn_cp-add-phone",
+      "bgm": "NOT_CHECKED"
+    },
+    "youtube": {
+      "status": "PUBLISHED_NATIVE_POST_VERIFIED",
+      "submitted": true,
+      "url": "https://www.youtube.com/post/Ugkx-ss7C3BqimvfIbT0b3uLprJxXSNv5Yuh",
+      "bgm": "NO_NATIVE_BGM_ENTRY_IN_COMMUNITY_IMAGE_POST"
+    },
+    "tiktok": {
+      "status": "SUBMITTED_UNDER_REVIEW_NATIVE_ONLY_SELF",
+      "submitted": true,
+      "url": "https://www.tiktok.com/@elimakesapps/video/7700587874781023509",
+      "bgm": "EXACT_RECORDING_NOT_FOUND_NO_MUSIC_ATTACHED"
+    },
+    "wechatChannels": {
+      "status": "NOT_ENTERED_PRIOR_EXPLICIT_SAFETY_STOP",
+      "submitted": false,
+      "url": null,
+      "bgm": "NOT_CHECKED"
+    }
+  },
+  "pmo_receipt_review": {
+    "reviewed": "Owner receipt JSON and published Weibo/YouTube screenshots; exact statuses preserved",
+    "bilibili_confirmation": "USER_CONFIRMED; existing post verified, no new submit",
+    "tiktok_music": "MISSING_AFTER_SINGLE_SUBMISSION; no delete/repost authorized",
+    "x_submission": "UNKNOWN; do not repeat without new native evidence"
+  }
+}

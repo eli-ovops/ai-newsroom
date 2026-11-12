@@ -1,0 +1,222 @@
+{
+  "canvas": [
+    1086,
+    1448
+  ],
+  "source_read_only": true,
+  "visual_review": [
+    "actual reference output",
+    "replacement output",
+    "side-by-side",
+    "50 percent overlay",
+    "360px phone three versions"
+  ],
+  "known_differences": "VISUAL-DIFFERENCES.md",
+  "files": [
+    {
+      "path": "build.py",
+      "size": 10833,
+      "sha256": "c26516496130ea7a337827f0aae56ceb88e061fa10e129ae3d115ad0604e75c1"
+    },
+    {
+      "path": "README.md",
+      "size": 3210,
+      "sha256": "e7a0619b91c1aa691af4d852039d831daf4d3883cb734ac1fdfdb392fd5bbc39"
+    },
+    {
+      "path": "VISUAL-DIFFERENCES.md",
+      "size": 1571,
+      "sha256": "229d9756e936c90eb956dfd3d79837a4434a25d0f44a85a2d67d9fbfa103e92d"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 44,
+      "sha256": "c5ec600c23d0e7eeed55a40406db6d4bdc8ff5002ba730dc28881f9cef664ea6"
+    },
+    {
+      "path": "assets/city.png",
+      "size": 100247,
+      "sha256": "797cf5f1d401b7e5cb0b4abd1174068b2de5c1bd45b391daddc94881b0cd733d"
+    },
+    {
+      "path": "assets/code-layers.png",
+      "size": 76160,
+      "sha256": "bb29c6fcd9f76b823407c9158dd16bffb26480b280353d7a20a214f9cdfb90df"
+    },
+    {
+      "path": "assets/masthead.png",
+      "size": 146680,
+      "sha256": "ae02971912717f86a5c9c3b8e636311b859e774f928e68db592f89b61cb46a83"
+    },
+    {
+      "path": "assets/neural-sphere.png",
+      "size": 322974,
+      "sha256": "b18192c923d6efe02ab71cdd03e0bf35e7fa992f6a98567d0578606cdd3f5fef"
+    },
+    {
+      "path": "assets/paper.png",
+      "size": 101007,
+      "sha256": "0f306cbf6106f25194174ba5aaec6568c4d3149dc22509a88aae025878c31e5e"
+    },
+    {
+      "path": "assets/provenance.json",
+      "size": 1132,
+      "sha256": "d3706c07589f05776388f2711e8d4ad100389b4a9958b2f6ede837ce235767fe"
+    },
+    {
+      "path": "assets/video-layers.png",
+      "size": 80507,
+      "sha256": "4bdf8c204fa1486a378b3b103f39bb4a46af6277ed612d0299e4320aefad1b85"
+    },
+    {
+      "path": "config/baseline.json",
+      "size": 678,
+      "sha256": "11a404e18e2000a3a332782b538ba060aa846117b4c80d4160c780364b3c8cad"
+    },
+    {
+      "path": "config/replacement.json",
+      "size": 682,
+      "sha256": "ee4f31f465569852bf7348f5fdfddd027243da2bddb18363cef653d987b7b1eb"
+    },
+    {
+      "path": "config/themes.json",
+      "size": 147,
+      "sha256": "60e82f88d58d200ebd12bb952d55d32435ad2c4dd4875ceb26f38ac7fbc50c5f"
+    },
+    {
+      "path": "comparison/overlay-50.png",
+      "size": 1799785,
+      "sha256": "2bd11732cee178a2bebfccab309954a75838de61203369ca7b5466090367b869"
+    },
+    {
+      "path": "comparison/phone-360.png",
+      "size": 234871,
+      "sha256": "999c82b09c057d4d6d352c8c7ad13b18f2bb46a7f9fe7321515c9b05da02f617"
+    },
+    {
+      "path": "comparison/phone-three-versions.png",
+      "size": 343239,
+      "sha256": "161544671f2a05a9276c73e91f435e22b82153cb97728606c2f04d0197fee226"
+    },
+    {
+      "path": "comparison/side-by-side.png",
+      "size": 2753049,
+      "sha256": "d80251291a2543d71c1e3a7315132b7865768ce8b941559c05e0cf86026cbe43"
+    },
+    {
+      "path": "reference/reference.png",
+      "size": 2111815,
+      "sha256": "4b29afe2f04d9a020702f149fa0cd65e6a6116b12faad4f501071e0ad53b39ad"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Black.otf",
+      "size": 17797908,
+      "sha256": "2267c4a0312d267dff8c0d1609948f7d949a3da8be3e126f5e2690cb9cc883b4"
+    },
+    {
+      "path": "fonts/NotoSansCJKsc-Regular.otf",
+      "size": 16437364,
+      "sha256": "2c76254f6fc379fddfce0a7e84fb5385bb135d3e399294f6eeb6680d0365b74b"
+    },
+    {
+      "path": "fonts/Noto-LICENSE.txt",
+      "size": 4301,
+      "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+    },
+    {
+      "path": "fonts/NotoSerifDisplay.ttf",
+      "size": 1835176,
+      "sha256": "4b661adcf6a5d38bf5befdc4d976e8a7238a4aeb57e62c1c1a67775380a09df9"
+    },
+    {
+      "path": "fonts/NotoSerifDisplay-Black.ttf",
+      "size": 429284,
+      "sha256": "1413fa41187d7fd3ae4a9880932e98fafcd09482e1af33b34f05ec4e6c8fc6e0"
+    },
+    {
+      "path": "fonts/NotoSerifDisplay-OFL.txt",
+      "size": 4350,
+      "sha256": "5e0da210fb04058a8c0087985d2d456b931c2579811a49655721d3cf0c36b6d6"
+    },
+    {
+      "path": "fonts/Anton-Regular.ttf",
+      "size": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab"
+    },
+    {
+      "path": "fonts/Anton-OFL.txt",
+      "size": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    },
+    {
+      "path": "fonts/used-sources.json",
+      "size": 1612,
+      "sha256": "c5839f1ba0256d0d23d489047016972117197fad0579d87332e8eab646f58133"
+    },
+    {
+      "path": "output/reference.png",
+      "size": 927552,
+      "sha256": "873b3707560cd09b0edfe95d03f3c023897fc47e3c3b027eb573ef87040b0085"
+    },
+    {
+      "path": "output/reference.svg",
+      "size": 1177661,
+      "sha256": "12ad7b22fa7f45daf60ffa785659387205743568768627544aef4f269995c7a8"
+    },
+    {
+      "path": "output/reference.html",
+      "size": 1177806,
+      "sha256": "fcb0f14da9fd17147b548412d893c5ae4cf3470bbd7188c42860f3b911153d52"
+    },
+    {
+      "path": "output/deep-purple.png",
+      "size": 924915,
+      "sha256": "8bc9e12aa4968401b79b670ab08c7513b9629e9a03863988d894934906803899"
+    },
+    {
+      "path": "output/deep-purple.svg",
+      "size": 1181061,
+      "sha256": "5c4f27864f78a2bf76e54b7da631e62255d082c2c60e959f63b4e5ea0795d53e"
+    },
+    {
+      "path": "output/deep-purple.html",
+      "size": 1181206,
+      "sha256": "ab8edc8c1888e4d26a1294638bd8e3bed467228d1e368e4dcbd9ec7b17da1c30"
+    },
+    {
+      "path": "output/replacement.png",
+      "size": 921664,
+      "sha256": "16cc087825ce434e76d60fcecd88ab860581e0f59a3d01502109a424dc3cf1d5"
+    },
+    {
+      "path": "output/replacement.svg",
+      "size": 1181686,
+      "sha256": "db9a91b041f276e77905583f804462e52ffc555a057ad13fa2cfd15bf51469fc"
+    },
+    {
+      "path": "output/replacement.html",
+      "size": 1181831,
+      "sha256": "88982160ac851e3e7689aeb275416126d6239922be5c5e234e09bc0fe8a00444"
+    },
+    {
+      "path": "output/[REDACTED_EMAIL]",
+      "size": 2424409,
+      "sha256": "4f3fcb1a489db0043f695fbe4d17705bbc06aa49dc2aba8be3980b76bf6d80a4"
+    },
+    {
+      "path": "analysis/checks.json",
+      "size": 1222,
+      "sha256": "8c6cf618f35f4b87ee9cef856d81d3310b090562bacb8cf1171b27514155d72c"
+    },
+    {
+      "path": "analysis/font-candidates.png",
+      "size": 110362,
+      "sha256": "11e9965677ee4e38e0c32d0aa710f054a1cbbb3da25ddac5aaeb69c23e96c452"
+    },
+    {
+      "path": "analysis/validation.json",
+      "size": 168,
+      "sha256": "42bc4452511c18caf8d728cee8dc11fc9faaa40c78cfb53e82200fdc9086e521"
+    }
+  ]
+}

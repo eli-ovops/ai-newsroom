@@ -1,0 +1,290 @@
+{
+  "content_id": "ai-daily-20261026",
+  "date": "2026-10-26",
+  "ownerThread": "01a172f2-0338-7e83-af8b-95d2d5e85d32",
+  "scope": "NONPUBLIC_PREPARATION_ONLY",
+  "publicPublishAuthorized": false,
+  "actualModel": "UNKNOWN",
+  "actualEffort": "UNKNOWN",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+      "sha256": "d864f812e283b613b11275972b237f6e82bb0501ed89dda53d4028cd34a646e7"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+      "sha256": "b1a889bc3bc4e6dc5f90851c43dba35bb3c8394c746e28de96e8407019f9bda9"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+      "sha256": "a5dbb8a654e7a3fd11835d4095e73fdfad56ef85558f3f791ce6d34ba1653b38"
+    },
+    {
+      "order": 4,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+      "sha256": "04bf09e1dcb9e8c35c57270ff975e28f3530d6310a31e859e5b1a9ecea655d91"
+    },
+    {
+      "order": 5,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png",
+      "sha256": "be598c6e256612b8b523718c414844cef5446682ab9da4519ed919e9528fb87a"
+    }
+  ],
+  "platforms": {
+    "douyin": {
+      "account": "Eli-Ai",
+      "accountId": "25296649142",
+      "status": "SAVED_REOPENED_BGM_PENDING",
+      "saved": true,
+      "reopened": true,
+      "tabId": "1",
+      "url": "https://creator.douyin.com/creator-micro/content/post/image?enter_from=draft",
+      "title": "AI视频更新，旧电视换清爽桌面",
+      "caption": "10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。\n\n① MiniMax H3：11项社区工具补进索引\n\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。\n\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。\n\n② 消费显卡“翻倍”，究竟快在哪里？\n\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。\n\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。\n\n③ 让AI助手给旧电视换个清爽桌面\n\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。\n\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。\n\n④ AI加入阿尔茨海默病研发\n\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。\n\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。\n\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？\n\n来源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者说明、Pathos AI公告；详见配图。",
+      "captionCount": 991,
+      "images": [
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png"
+      ],
+      "nativeTopics": [
+        "#AI日报",
+        "#人工智能",
+        "#MiniMax",
+        "#AI工具",
+        "#AI资讯"
+      ],
+      "aiDeclaration": true,
+      "bgm": {
+        "status": "EXACT_24S_RECORDING_NOT_FOUND_NOT_ATTACHED",
+        "listening": "NOT_VERIFIED",
+        "media": "No matched candidate; no playback validation",
+        "queries": [
+          "luvsic",
+          "luvsic（忧郁）",
+          "luvsic（忧郁）（剪辑版）"
+        ]
+      },
+      "check": {
+        "images": [
+          {
+            "h": 1448,
+            "loaded": true,
+            "w": 1086
+          },
+          {
+            "h": 1448,
+            "loaded": true,
+            "w": 1086
+          },
+          {
+            "h": 1448,
+            "loaded": true,
+            "w": 1086
+          },
+          {
+            "h": 1448,
+            "loaded": true,
+            "w": 1086
+          },
+          {
+            "h": 1448,
+            "loaded": true,
+            "w": 1086
+          }
+        ],
+        "text": "10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。​\n​\n① MiniMax H3：11项社区工具补进索引​\n​\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。​\n​\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。​\n​\n② 消费显卡“翻倍”，究竟快在哪里？​\n​\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。​\n​\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。​\n​\n③ 让AI助手给旧电视换个清爽桌面​\n​\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。​\n​\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。​\n​\n④ AI加入阿尔茨海默病研发​\n​\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。​\n​\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。​\n​\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？​\n​\n来源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者说明、Pathos AI公告；详见配图。​\n​ #AI日报   ​ #人工智能   ​ #MiniMax   ​ #AI工具   ​ #AI资讯  ​",
+        "topics": [
+          "#AI日报",
+          "#人工智能",
+          "#MiniMax",
+          "#AI工具",
+          "#AI资讯"
+        ]
+      }
+    },
+    "xiaohongshu": {
+      "status": "BLOCKED_LOGIN",
+      "accountExpected": "Eli AI FDE /11520431136",
+      "reason": "Current specialist browser shows 电脑设备登录超限，请重新登录; PMO login not shared/verified here",
+      "saved": false,
+      "reopened": false,
+      "url": "https://www.xiaohongshu.com/user/profile/671897ea000000001d033299",
+      "tabId": "2",
+      "bgm": "NOT_CHECKED",
+      "images": 0
+    },
+    "weibo": {
+      "account": "Eli-AI",
+      "accountId": "7720929036",
+      "status": "EDITOR_RETAINED_NOT_SUBMITTED",
+      "saved": "UNKNOWN_NO_EXPLICIT_SAVE_CONTROL_OBSERVED",
+      "reopened": false,
+      "url": "https://weibo.com/u/7720929036",
+      "tabId": "3",
+      "caption": "AI视频工具更新，旧电视换个清爽桌面\n\n10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。\n\n① MiniMax H3：11项社区工具补进索引\n\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。\n\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。\n\n② 消费显卡“翻倍”，究竟快在哪里？\n\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。\n\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。\n\n③ 让AI助手给旧电视换个清爽桌面\n\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。\n\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。\n\n④ AI加入阿尔茨海默病研发\n\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。\n\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。\n\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？\n\n来源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者说明、Pathos AI公告；详见配图。\n\n#AI日报# #人工智能# #MiniMax# #AI工具# #AI资讯#",
+      "images": [
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+        "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png"
+      ],
+      "textTags": [
+        "AI日报",
+        "人工智能",
+        "MiniMax",
+        "AI工具",
+        "AI资讯"
+      ],
+      "nativeTopics": "NOT_VERIFIED_BEFORE_PUBLIC_SUBMIT",
+      "aiDeclaration": true,
+      "bgm": "NO_NATIVE_IMAGE_BGM_ENTRY_OBSERVED",
+      "check": {
+        "chars": 1013,
+        "matches": true
+      }
+    },
+    "bilibili": {
+      "status": "EDITOR_RETAINED_NOT_SUBMITTED",
+      "saved": "UNKNOWN_NO_EXPLICIT_SAVE_CONTROL_OBSERVED",
+      "reopened": false,
+      "account": "Eli-AI",
+      "accountId": "432834855",
+      "url": "https://t.bilibili.com/",
+      "tabId": "4",
+      "title": "AI视频更新，旧电视换清爽桌面",
+      "caption": "10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。\n\n① MiniMax H3：11项社区工具补进索引\n\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。\n\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。\n\n② 消费显卡“翻倍”，究竟快在哪里？\n\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。\n\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。\n\n③ 让AI助手给旧电视换个清爽桌面\n\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。\n\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。\n\n④ AI加入阿尔茨海默病研发\n\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。\n\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。\n\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？\n\n来源见配图。\n\n#AI日报# #人工智能# #MiniMax# #AI工具# #AI资讯#",
+      "captionVerification": "MATCH_AFTER_NORMALIZING_DOM_ZERO_WIDTH_PREFIX_AND_TRAILING_SPACE",
+      "images": [
+        {
+          "order": 1,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+          "sha256": "d864f812e283b613b11275972b237f6e82bb0501ed89dda53d4028cd34a646e7"
+        },
+        {
+          "order": 2,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+          "sha256": "b1a889bc3bc4e6dc5f90851c43dba35bb3c8394c746e28de96e8407019f9bda9"
+        },
+        {
+          "order": 3,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+          "sha256": "a5dbb8a654e7a3fd11835d4095e73fdfad56ef85558f3f791ce6d34ba1653b38"
+        },
+        {
+          "order": 4,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+          "sha256": "04bf09e1dcb9e8c35c57270ff975e28f3530d6310a31e859e5b1a9ecea655d91"
+        },
+        {
+          "order": 5,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png",
+          "sha256": "be598c6e256612b8b523718c414844cef5446682ab9da4519ed919e9528fb87a"
+        }
+      ],
+      "nativeTopics": "PLAIN_TEXT_HASHTAGS",
+      "aiDeclaration": "UNKNOWN_MENU_ITEM_ONLY_NO_CHECKBOX_OR_SELECTED_STATE",
+      "bgm": "NO_NATIVE_IMAGE_BGM_ENTRY_OBSERVED",
+      "evidence": [
+        "bilibili-editor.jpg",
+        "bilibili-editor.txt"
+      ],
+      "check": {
+        "matchesAfterNormalization": true,
+        "chars": 936,
+        "imageCount": 5
+      }
+    },
+    "x": {
+      "status": "EDITOR_RETAINED_IMAGE_CHOOSER_BLOCKED",
+      "saved": "UNKNOWN_NO_EXPLICIT_SAVE_OBSERVED",
+      "reopened": false,
+      "account": "Eli-AI",
+      "handle": "@cczij1112",
+      "url": "https://x.com/compose/post",
+      "tabId": "5",
+      "caption": "10月26日AI日報：今天看4件事——AI影片工具更集中、顯卡提速有邊界、舊電視能換清爽桌面，AI也在參與新藥研發。其中有今天的更新，也有10月23日的合作公告，日期分開看。\n\n① MiniMax H3：11項社群工具補進索引\n\nMiniMax官方組織下的H3生態索引，今天合併了11項社群專案的收錄，涵蓋參考圖生成影片、服務部署和工作流程等方向。想找適合自己設備的運行方式，可以先從這份導覽入手。\n\n這是索引更新，不是11個模型同時發布。GPU、雲端TPU和蘋果電腦對應不同配置；部分專案還在預覽或實驗階段，不能把某條路徑的速度套到所有設備上。\n\n② 消費級顯卡「翻倍」，究竟快在哪裡？\n\ngpu-unlock-ada繼續補充實驗型號適配。專案作者和貢獻者回報，RTX 4090在特定半精度張量指令測試中，吞吐接近翻倍。\n\n到了實際矩陣運算，增幅會隨任務變化；README裡一組FP16矩陣測試提升12%—34%，另一個量化大型語言模型任務沒有收益。它依賴Linux、具體顯卡和驅動條件，不能理解成所有AI生成速度翻倍，更不是顯存翻倍。\n\n③ 讓AI助手幫舊電視換個清爽桌面\n\n開源桌面Aerial，把電視首頁換成應用程式、桌布和螢幕保護程式。作者安裝說明列出了WorkBuddy、豆包電腦版等能執行本機命令的AI助手，可協助安裝；這是專案文件提供的用法，我們沒有實際在電視安裝。\n\n需要對應機型支援、電腦與電視同網，並由機主允許ADB除錯和安裝。它只換桌面，韌體開機廣告和各App裡的影片廣告不會因此一起消失。今天另有版本更新，但這套桌面方案並非今天才出現。\n\n④ AI加入阿茲海默症研發\n\n10月23日，Pathos AI宣布與百時美施貴寶、Tempus合作，計畫整理神經疾病患者的去識別化長期資料，用AI研究疾病進展、提出研究假設，並協助設計更有針對性的臨床試驗。\n\n公告提到的資料涵蓋計畫涉及數十萬神經疾病患者，不等於這些人已參加阿茲海默症治療試驗。目前公布的是研發合作，尚未給出這項合作的治療效果或新藥上市結果。\n\n這4條裡，你更想了解AI影片、顯卡提速、電視桌面，還是AI藥物研發？\n\n來源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者說明、Pathos AI公告；詳見配圖。\n\n#AI日報 #人工智能 #MiniMax #AI工具 #AI資訊",
+      "captionCheck": {
+        "matches": false,
+        "chars": 1015,
+        "text": "10月26日AI日報：今天看4件事——AI影片工具更集中、顯卡提速有邊界、舊電視能換清爽桌面，AI也在參與新藥研發。其中有今天的更新，也有10月23日的合作公告，日期分開看。\n\n\n① MiniMax H3：11項社群工具補進索引\n\n\nMiniMax官方組織下的H3生態索引，今天合併了11項社群專案的收錄，涵蓋參考圖生成影片、服務部署和工作流程等方向。想找適合自己設備的運行方式，可以先從這份導覽入手。\n\n\n這是索引更新，不是11個模型同時發布。GPU、雲端TPU和蘋果電腦對應不同配置；部分專案還在預覽或實驗階段，不能把某條路徑的速度套到所有設備上。\n\n\n② 消費級顯卡「翻倍」，究竟快在哪裡？\n\n\ngpu-unlock-ada繼續補充實驗型號適配。專案作者和貢獻者回報，RTX 4090在特定半精度張量指令測試中，吞吐接近翻倍。\n\n\n到了實際矩陣運算，增幅會隨任務變化；README裡一組FP16矩陣測試提升12%—34%，另一個量化大型語言模型任務沒有收益。它依賴Linux、具體顯卡和驅動條件，不能理解成所有AI生成速度翻倍，更不是顯存翻倍。\n\n\n③ 讓AI助手幫舊電視換個清爽桌面\n\n\n開源桌面Aerial，把電視首頁換成應用程式、桌布和螢幕保護程式。作者安裝說明列出了WorkBuddy、豆包電腦版等能執行本機命令的AI助手，可協助安裝；這是專案文件提供的用法，我們沒有實際在電視安裝。\n\n\n需要對應機型支援、電腦與電視同網，並由機主允許ADB除錯和安裝。它只換桌面，韌體開機廣告和各App裡的影片廣告不會因此一起消失。今天另有版本更新，但這套桌面方案並非今天才出現。\n\n\n④ AI加入阿茲海默症研發\n\n\n10月23日，Pathos AI宣布與百時美施貴寶、Tempus合作，計畫整理神經疾病患者的去識別化長期資料，用AI研究疾病進展、提出研究假設，並協助設計更有針對性的臨床試驗。\n\n\n公告提到的資料涵蓋計畫涉及數十萬神經疾病患者，不等於這些人已參加阿茲海默症治療試驗。目前公布的是研發合作，尚未給出這項合作的治療效果或新藥上市結果。\n\n\n這4條裡，你更想了解AI影片、顯卡提速、電視桌面，還是AI藥物研發？\n\n\n來源：MiniMax官方索引、gpu-unlock-ada作者README、Aerial作者說明、Pathos AI公告；詳見配圖。\n\n\n#AI日報 #人工智能 #MiniMax #AI工具 #AI資訊"
+      },
+      "images": [],
+      "requiredImages": [
+        {
+          "order": 1,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+          "sha256": "d864f812e283b613b11275972b237f6e82bb0501ed89dda53d4028cd34a646e7"
+        },
+        {
+          "order": 2,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+          "sha256": "b1a889bc3bc4e6dc5f90851c43dba35bb3c8394c746e28de96e8407019f9bda9"
+        },
+        {
+          "order": 3,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+          "sha256": "a5dbb8a654e7a3fd11835d4095e73fdfad56ef85558f3f791ce6d34ba1653b38"
+        },
+        {
+          "order": 4,
+          "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+          "sha256": "04bf09e1dcb9e8c35c57270ff975e28f3530d6310a31e859e5b1a9ecea655d91"
+        }
+      ],
+      "textHashtags": [
+        "AI日報",
+        "人工智能",
+        "MiniMax",
+        "AI工具",
+        "AI資訊"
+      ],
+      "nativeTopics": "PLAIN_TEXT_HASHTAGS",
+      "aiDisclosure": "NOT_SET",
+      "bgm": "NO_NATIVE_IMAGE_BGM_ENTRY_OBSERVED",
+      "blocker": "已核DOM内2枚原生input[type=file]均接受JPEG/PNG/WebP/GIF且enabled；先前Choose File与本轮原生添加照片或视频按钮均未在10秒内触发chooser，停止重试。0图，未设AI披露。",
+      "evidence": [
+        "x-editor-state.txt"
+      ]
+    },
+    "youtube": {
+      "status": "UNSAVED_EDITOR_HELD_BLOCKED_BY_DISABLED_COMMUNITY",
+      "saved": false,
+      "reopened": false,
+      "account": "Eli-AI",
+      "channel": "UCqJaVQRO3FrxD5spt1GG7Iw",
+      "url": "https://www.youtube.com/channel/UCqJaVQRO3FrxD5spt1GG7Iw/posts",
+      "tabId": "6",
+      "reason": "原生正文contenteditable存在但visible=false，fill返回no_visible_match；发布页显示启用我的社区，而本期不授权该功能设置。故未填入文字或选图。",
+      "existingPost": "2026-10-25 post Ugkx-ss7C3BqimvfIbT0b3uLprJxXSNv5Yuh visible; no 2026-10-26 post observed",
+      "bgm": "NO_NATIVE_IMAGE_BGM_ENTRY_OBSERVED",
+      "evidence": [
+        "youtube-community-state.txt",
+        "youtube-composer-hidden-control.json"
+      ]
+    },
+    "linkedin": {
+      "status": "NOT_ENTERED_KNOWN_PHONE_VERIFICATION_BLOCKER",
+      "reason": "已知账号资料要求添加手机号验证，本任务不改变账号权限边界"
+    },
+    "wechatChannels": {
+      "status": "SAFETY_STOP_NOT_ENTERED",
+      "reason": "已有明确安全停止；本轮不重试"
+    },
+    "instagram": {
+      "status": "PAUSED_NOT_ENTERED"
+    },
+    "facebook": {
+      "status": "PAUSED_NOT_ENTERED"
+    },
+    "tiktok": {
+      "status": "NOT_PREPARED_NOT_IN_THIS_ROUND_PRIORITY_SCOPE"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "detail-event.png",
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-9e987296-a1ff-4e60-b01e-7eee10b2f60e.png",
+    "sha256": "95b1855cf44a6495d31cb629acb9e086e53044fd5b6387eee680545f8013433b",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "role": "User-approved visual direction reference; all example news claims excluded from factual evidence"
+  },
+  {
+    "file": "detail-model.png",
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-c8117e2b-5437-4529-ac63-8d1a1a441cbc.png",
+    "sha256": "ddf7a1e05cf123f53e7cf63691271ccda380a5801f5e0cbb5c7f61433938c859",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "role": "User-approved visual direction reference; all example news claims excluded from factual evidence"
+  },
+  {
+    "file": "detail-tool.png",
+    "source": "/var/folders/1q/6mf7kw2j1z19q1f9dydq60wh0000gn/T/codex-clipboard-d3842a98-a267-4b25-b752-f86d9c6ef1b2.png",
+    "sha256": "df93dea6184954428b22cc6efafa8155b7f7678f2595e6bb76ba923c780219cc",
+    "dimensions": [
+      1086,
+      1448
+    ],
+    "role": "User-approved visual direction reference; all example news claims excluded from factual evidence"
+  }
+]

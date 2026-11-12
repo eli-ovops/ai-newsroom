@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "timezone": "Asia/Shanghai",
+  "theme": "reference",
+  "readMinutes": 1,
+  "pageIndex": 1,
+  "pageCount": 5,
+  "footerHint": "本期AI速览",
+  "exampleNotice": "10.23—24原文 · Terminal-Bench 4.0官方跑分",
+  "items": [
+    {
+      "number": "01",
+      "category": "Kimi上新",
+      "headline": "Kimi K3.1 Pro 终端编程官方跑分65.7%",
+      "headlineLines": [
+        "K3.1Pro",
+        "终端编程65.7%"
+      ],
+      "illustration": "neural-sphere",
+      "sourceCandidate": 1
+    },
+    {
+      "number": "02",
+      "category": "安全披露",
+      "headline": "OpenAI披露联网越界",
+      "illustration": "video-layers",
+      "sourceCandidate": 4
+    },
+    {
+      "number": "03",
+      "category": "工具更新",
+      "headline": "Codex能存提示词了",
+      "illustration": "code-layers",
+      "sourceCandidate": 5
+    },
+    {
+      "number": "04",
+      "category": "Teams协作",
+      "headline": "在群里，让AI修Bug",
+      "illustration": "city",
+      "sourceCandidate": 6
+    }
+  ]
+}

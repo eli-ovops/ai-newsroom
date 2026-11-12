@@ -1,0 +1,40 @@
+{
+  "status": "READY_FOR_USER_REVIEW",
+  "visual_rework_at": "2026-10-25T16:50:41.329850+08:00",
+  "changed_page": "02-kimi",
+  "changes": [
+    "official source brand marks added",
+    "descending score order: Claude Opus 5.5 66.4, Kimi K3.1 Pro 65.7, GPT-6 Astra 58.2"
+  ],
+  "unchanged_four_pages_sha256_verified": true,
+  "actual_png_viewed": true,
+  "logo_provenance": "AI日报/assets/logos/provenance.json",
+  "pages": [
+    {
+      "page": "01-cover",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/01-cover.png",
+      "sha256": "c5217fd8ee7b562beba2d73e24eb26523bdfa0a0ba7b934d2f9274089eab4fec"
+    },
+    {
+      "page": "02-kimi",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/02-kimi.png",
+      "sha256": "068e22e4ea579c3c0441ec46eebb636d010155ef5f42fd4bb31d110a40f54b4f"
+    },
+    {
+      "page": "03-openai",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/03-openai.png",
+      "sha256": "8684adc1764c94598777500696add6e61bb39a78cd581c090fcb7af14054319d"
+    },
+    {
+      "page": "04-codex",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/04-codex.png",
+      "sha256": "533b5ecbd5832118978748ff6ebe5a4fa36bd3cebddac4f74b136117b6750610"
+    },
+    {
+      "page": "05-teams",
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v03/output/05-teams.png",
+      "sha256": "e4a1fbb2b821bbc38ce8777813297cbfaadc9db7308b07201b914294cf44104e"
+    }
+  ],
+  "published": false
+}

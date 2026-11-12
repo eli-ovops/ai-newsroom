@@ -1,0 +1,310 @@
+{
+  "schema_version": "ai-daily-editorial-v1",
+  "content_id": "ai-daily-20261026",
+  "issue_date": "2026-10-26",
+  "weekday": "星期一",
+  "timezone": "Asia/Shanghai",
+  "version": "v01",
+  "status": "编辑定稿完成，待PMO审阅；未生成PNG或平台草稿",
+  "selection": "本轮PMO明确采用的4条；原候选身份说明以本次制作任务为准，未重开选题",
+  "rules": [
+    "ELI-MEDIA-AGENTS-20261025-v6",
+    "AI-DAILY-20261025-v4",
+    "AI-DAILY-EDITORIAL-20261025-v1"
+  ],
+  "route": {
+    "requested_model": "gpt-6.1-sol",
+    "requested_effort": "medium",
+    "actual_model": "UNKNOWN",
+    "actual_effort": "UNKNOWN"
+  },
+  "source_refresh_at_utc": "2026-10-26T06:14:57Z",
+  "series": {
+    "brand": "沿现有白/黑/紫报刊母版",
+    "scope": "1张总结图＋本次任务指定的4条详情内容，视觉制作与实际页数由PMO下游任务确定，不新增第5新闻",
+    "illustration": "允许无图清晰排版；真实截图仅作候选，使用前实看"
+  },
+  "items": [
+    {
+      "order": 1,
+      "id": "minimax-h3-index",
+      "summary_cover": {
+        "tag": "AI视频",
+        "headline": "H3视频工具\n新增11项收录",
+        "summary": "参考图视频、部署与工作流集中到生态索引，按设备挑配置。",
+        "date_line": "10月26日｜生态索引更新"
+      },
+      "detail": {
+        "title": "MiniMax H3：11项社区工具补进索引",
+        "subtitle": "把参考图视频、部署和工作流入口集中起来，方便找适合自己设备的方案。",
+        "fact_blocks": [
+          {
+            "title": "这次更新了什么",
+            "text": "官方组织下的索引新增11项社区项目收录，包括参考图视频、服务部署和工作流等方向；不是11个模型同时发布。"
+          },
+          {
+            "title": "按设备和版本选方案",
+            "text": "GPU、云端TPU与Apple Silicon各有不同路径。部分项目仍处于预览或实验阶段，速度、硬件配置和模型条款需对应具体项目。"
+          }
+        ],
+        "source_footer": "来源：MiniMax-AI生态索引 / PR #25｜2026-10-26（北京时间）"
+      },
+      "sources": [
+        {
+          "name": "MiniMax-AI PR #25",
+          "url": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration/pull/25",
+          "published_at": "UNKNOWN",
+          "event_at": "2026-10-25T23:16:50Z",
+          "event_at_beijing": "2026-10-26T07:16:50+08:00",
+          "event_type": "合并11项社区收录",
+          "date_precision": "合并时间，不等于每个项目首次发布时刻"
+        },
+        {
+          "name": "MiniMax-AI官方组织下的社区索引",
+          "url": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration",
+          "published_at": "UNKNOWN",
+          "repository_created_at": "2026-08-13T05:47:03Z"
+        }
+      ],
+      "trace": {
+        "merge_commit": "17b2143c7671d05ae178bff6b059a688be2f0b21",
+        "eleven_projects": [
+          "FastH3-Omni",
+          "UniServe",
+          "PTD",
+          "TorchTPU/Diffusers",
+          "MLX-Serve",
+          "ResCascade",
+          "VPack",
+          "Spark-H3",
+          "TARA-H3",
+          "FreeVideo",
+          "DMAD"
+        ]
+      },
+      "visual_assets": {
+        "mode": "无图编辑排版可用",
+        "source_page": "https://github.com/MiniMax-AI/awesome-minimax-h3-integration/pull/25",
+        "images": [],
+        "note": "不伪造生成界面，不用11个模型Logo替代11项项目收录。"
+      },
+      "verification": {
+        "refreshed": "PR正文和合并元数据本轮重读，11项目与时间一致。",
+        "limits": "未实跑任何集成、速度/画质或逐个复核全部外链。",
+        "blocking_gap": null
+      }
+    },
+    {
+      "order": 2,
+      "id": "gpu-unlock",
+      "summary_cover": {
+        "tag": "AI硬件",
+        "headline": "显卡提速有进展\n“翻倍”要看任务",
+        "summary": "特定张量指令测试接近翻倍，实际矩阵和推理收益不同。",
+        "date_line": "10月25—26日｜测试与实验适配"
+      },
+      "detail": {
+        "title": "消费显卡“翻倍”，究竟快在哪里？",
+        "subtitle": "GPU unlock继续补充实验型号适配，指令吞吐与整套AI速度要分开看。",
+        "fact_blocks": [
+          {
+            "title": "作者报告的提升",
+            "text": "RTX 4090在特定半精度张量指令、FP32累加测试中吞吐接近翻倍。另一组FP16矩阵运算提升12%—34%，增幅随矩阵形状变化。"
+          },
+          {
+            "title": "也有任务没有收益",
+            "text": "README中一张改装48GB RTX 4090的量化大模型任务没有收益。项目依赖Linux、具体显卡、驱动和运算路径，不能推成所有AI任务或显存翻倍。"
+          }
+        ],
+        "source_footer": "来源：gpu-unlock-ada作者README及提交｜2026-10-25—26"
+      },
+      "sources": [
+        {
+          "name": "gpu-unlock-ada作者README",
+          "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+          "published_at": "UNKNOWN",
+          "repository_created_at": "2026-10-23T21:00:53Z",
+          "event_date": "2026-10-25",
+          "event_type": "README标注改装卡测试日期，其他测试首次发表日未核"
+        },
+        {
+          "name": "RTX 4070实验型号选择调整",
+          "url": "https://github.com/JustAResearcher/gpu-unlock-ada/commit/6c191271f549fc30b8d1304b5e888f9eb9a17d50",
+          "event_at": "2026-10-26T00:53:36Z",
+          "event_at_beijing": "2026-10-26T08:53:36+08:00",
+          "event_type": "PCI 2786归入ad104_experimental，非全40系稳定支持"
+        }
+      ],
+      "visual_assets": {
+        "mode": "无图编辑排版优先",
+        "source_page": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "images": [],
+        "note": "2倍指令吞吐与12%—34%矩阵提升来自不同指标/测试，不能画成同一任务前后对比；本稿无需精确数据图。"
+      },
+      "verification": {
+        "refreshed": "本轮读当前README前3300字符，确认特定测试条件和量化任务无收益描述。",
+        "limits": "作者/贡献者报告；未读全部原始测试文件，未试装或核显卡稳定性。",
+        "blocking_gap": null
+      }
+    },
+    {
+      "order": 3,
+      "id": "aerial-tv",
+      "summary_cover": {
+        "tag": "AI生活",
+        "headline": "AI助手配开源桌面\n旧电视也能更清爽",
+        "summary": "Aerial作者列出WorkBuddy、豆包电脑版等助手用法，支持范围依机型。",
+        "date_line": "既有开源方案｜10月26日另有版本更新"
+      },
+      "detail": {
+        "title": "用AI助手给旧电视换个清爽桌面",
+        "subtitle": "WorkBuddy、豆包电脑版出现在Aerial作者安装说明中，关键是能运行本机命令。",
+        "fact_blocks": [
+          {
+            "title": "换掉满屏推荐的首页",
+            "text": "Aerial提供应用、壁纸和屏保组成的电视桌面。作者文档列出WorkBuddy、豆包电脑版等可协助安装的助手；这是项目用法说明，我们没有试装电视。"
+          },
+          {
+            "title": "先看机型和操作条件",
+            "text": "需要对应机型支持、电脑与电视同网，以及机主允许ADB调试和安装。Aerial只换桌面，固件开机广告、各App视频广告不会一起消失；不同小米、TCL等型号的支持情况不同。"
+          }
+        ],
+        "source_footer": "来源：Aerial作者安装说明｜既有方案；v1.51：2026-10-26"
+      },
+      "sources": [
+        {
+          "name": "Aerial作者README固定版本",
+          "url": "https://github.com/pengchujin/aerial-tv/blob/616ac597c1fc53285437aa3ccffb7b9f995b4533/README.md",
+          "published_at": "UNKNOWN",
+          "repository_created_at": "2026-10-20T09:13:06Z",
+          "date_precision": "创建时间不等于首次公开；AI安装说明首次出现日未核"
+        },
+        {
+          "name": "Aerial v1.51",
+          "url": "https://github.com/pengchujin/aerial-tv/releases/tag/v1.51",
+          "published_at": "2026-10-25T23:53:43Z",
+          "published_at_beijing": "2026-10-26T07:53:43+08:00",
+          "event_type": "本次主要为条件性4K界面更新，不是今天首次具备更换桌面"
+        }
+      ],
+      "visual_assets": {
+        "mode": "真实项目截图候选或无图编辑排版",
+        "source_page": "https://github.com/pengchujin/aerial-tv/blob/616ac597c1fc53285437aa3ccffb7b9f995b4533/README.md",
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/pengchujin/aerial-tv/main/site/img/home.jpg",
+            "source_blob": "https://github.com/pengchujin/aerial-tv/blob/main/site/img/home.jpg",
+            "sha": "360f46c0feec3160d180f51045b6ead928a458c9",
+            "size_bytes": 188660,
+            "origin": "作者仓库的桌面截图",
+            "retrieval_check": "本轮GitHub文件元数据可读",
+            "visual_review": "UNKNOWN，未下载/实看，视觉Owner使用前检查",
+            "license_review": "使用前核当前项目素材授权；不作本期用户电视实拍"
+          }
+        ],
+        "note": "可不用图片。不能拼接成WorkBuddy/豆包真实运行或用户电视实测截图。"
+      },
+      "verification": {
+        "refreshed": "本轮重读作者助手品牌安装段与只换桌面/固件广告限制；素材文件元数据可读。",
+        "limits": "厂商官方对这条用法的验证、个人原帖及设备实测未核。",
+        "blocking_gap": null
+      }
+    },
+    {
+      "order": 4,
+      "id": "pathos-alzheimers",
+      "summary_cover": {
+        "tag": "AI制药",
+        "headline": "AI参与阿尔茨海默病研发\n从数据和试验设计做起",
+        "summary": "Pathos AI与BMS、Tempus公布合作；尚无这项合作的新疗效结果。",
+        "date_line": "10月23日公告｜本期收录"
+      },
+      "detail": {
+        "title": "AI加入阿尔茨海默病研发",
+        "subtitle": "Pathos AI携手BMS、Tempus，计划研究疾病进展并改进临床试验设计。",
+        "fact_blocks": [
+          {
+            "title": "这项合作准备做什么",
+            "text": "计划构建神经疾病患者的去标识化长期数据集，由AI分析疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。"
+          },
+          {
+            "title": "数据规模不等于疗效",
+            "text": "公告说计划覆盖数十万神经疾病患者，不是这些人已参加阿尔茨海默病治疗试验。目前是研发合作，未公布这项合作的治疗效果或新药上市结果。"
+          }
+        ],
+        "source_footer": "来源：Pathos AI公司公告｜2026-10-23"
+      },
+      "sources": [
+        {
+          "name": "Pathos AI公司合作公告",
+          "url": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions",
+          "published_date": "2026-10-23",
+          "published_time": "UNKNOWN",
+          "event_date": "2026-10-23（宣布合作）",
+          "contract_signed_at": "UNKNOWN",
+          "date_precision": "不称全网首次披露或26日新发生"
+        }
+      ],
+      "visual_assets": {
+        "mode": "无图编辑排版优先",
+        "source_page": "https://www.pathos.com/pathos-ai-announces-strategic-collaborations-with-bristol-myers-squibb-and-tempus-ai-to-advance-ai-driven-drug-development-beginning-with-alzheimers-disease-and-other-neurological-conditions",
+        "images": [],
+        "note": "不伪造临床数据、患者照片、脑扫描、诊断界面或新药包装；不用肿瘤药物素材代表阿尔茨海默病治疗成果。"
+      },
+      "verification": {
+        "refreshed": "本轮实际打开并重读原公司合作公告主体。",
+        "limits": "数据计划的精确规模/独立验证/临床疗效未提供；不补成已完成试验。",
+        "blocking_gap": null
+      }
+    }
+  ],
+  "publication": {
+    "suggested_title": "AI视频工具更新，旧电视换个清爽桌面",
+    "body": "10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。\n\n① MiniMax H3：11项社区工具补进索引\n\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。\n\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。\n\n② 消费显卡“翻倍”，究竟快在哪里？\n\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。\n\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。\n\n③ 让AI助手给旧电视换个清爽桌面\n\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。\n\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。\n\n④ AI加入阿尔茨海默病研发\n\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。\n\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。\n\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？",
+    "character_count": {
+      "with_whitespace": 886,
+      "without_whitespace": 853,
+      "method": "Unicode码点计数；正文从10月26日AI日报起至最后问句止，含序号/标点/ASCII，不含标题、来源列表及内部说明"
+    },
+    "platform_adaptation": "此为详细主稿，未针对原生平台话题/字数做最后适配",
+    "bgm_status": "本期待用户选择，未选曲或挂载",
+    "platform_status": "未访问或填写任何平台",
+    "source_links_separate": true
+  },
+  "required_gaps_by_item": [
+    {
+      "id": "minimax-h3-index",
+      "blocking": false,
+      "remaining": "未实跑任何集成、速度/画质或逐个复核全部外链。",
+      "handling": "正文已保留相关归属/限制，不为补齐非必需实测扩大任务"
+    },
+    {
+      "id": "gpu-unlock",
+      "blocking": false,
+      "remaining": "作者/贡献者报告；未读全部原始测试文件，未试装或核显卡稳定性。",
+      "handling": "正文已保留相关归属/限制，不为补齐非必需实测扩大任务"
+    },
+    {
+      "id": "aerial-tv",
+      "blocking": false,
+      "remaining": "厂商官方对这条用法的验证、个人原帖及设备实测未核。",
+      "handling": "正文已保留相关归属/限制，不为补齐非必需实测扩大任务"
+    },
+    {
+      "id": "pathos-alzheimers",
+      "blocking": false,
+      "remaining": "数据计划的精确规模/独立验证/临床疗效未提供；不补成已完成试验。",
+      "handling": "正文已保留相关归属/限制，不为补齐非必需实测扩大任务"
+    }
+  ],
+  "artifacts_created": [
+    "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/编辑定稿.json",
+    "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/发布正文.md"
+  ],
+  "temporary_files": [],
+  "report": {
+    "target_thread_id": "01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "send_status": "SUCCESS：一次mcp__codex_app__send_message_to_thread，isError=false，返回threadId=01a11194-c40d-7bf0-8396-5bb5d6449444",
+    "pmo_read_and_acceptance": "UNKNOWN"
+  }
+}

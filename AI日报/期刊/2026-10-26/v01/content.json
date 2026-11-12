@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "theme": "reference",
+  "readMinutes": 1,
+  "pageIndex": 1,
+  "pageCount": 5,
+  "footerHint": "本期AI速览",
+  "exampleNotice": "消息日期10.23—26 · 来源见详情页",
+  "items": [
+    {
+      "number": "01",
+      "category": "MiniMax",
+      "headlineLines": [
+        "H3工具",
+        "新增11项收录"
+      ],
+      "illustration": "neural-sphere"
+    },
+    {
+      "number": "02",
+      "category": "AI硬件",
+      "headline": "显卡“翻倍”有条件",
+      "illustration": "video-layers"
+    },
+    {
+      "number": "03",
+      "category": "AI生活",
+      "headline": "让AI帮电视换桌面",
+      "illustration": "code-layers"
+    },
+    {
+      "number": "04",
+      "category": "AI制药",
+      "headline": "AI参与药物研发",
+      "illustration": "city"
+    }
+  ]
+}

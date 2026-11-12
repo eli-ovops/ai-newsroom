@@ -1,0 +1,33 @@
+{
+  "version": "AI-DAILY-20261025-v4",
+  "master": "/Volumes/EXTERNAL/自媒体/ai_daily_editorial_replica_20261025_144029",
+  "workflow": "/Volumes/EXTERNAL/自媒体/AI日报/README.md",
+  "default_theme": "reference",
+  "canvas": [
+    1086,
+    1448
+  ],
+  "daily_directory": "AI日报/期刊/YYYY-MM-DD/vNN",
+  "default_delivery": "inline PNG + absolute PNG path",
+  "archive_only_on_explicit_request": true,
+  "asset_reuse_check": true,
+  "layout_hash_unchanged": true,
+  "build_sha256": "34ec3fa1c5cb01a86d625c983edc666029ff55d5f43ee9457f36e2cea2f082da",
+  "topics": "open; no fixed categories",
+  "assistant_added_candidates": "user confirms before inclusion",
+  "freshness": "live primary sources; original publication and event dates; latest status rechecked for selected items",
+  "accepted_daily_homepage": {
+    "image": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v01/output/custom.png",
+    "sha256": "59d0f71e9f7d4f72df57787c2bbb9cbbf10f71d7dccb7939d15d9a9dd71c20bd",
+    "approval": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/v01/user-approval.json"
+  },
+  "editorial_spec": "AI日报/编辑与视觉规范.md",
+  "detail_visual_references": "AI日报/references/20261025/manifest.json",
+  "layout_policy": "stable brand; content-driven local layouts; no mandatory three points or editorial interpretation",
+  "mobile_review_width": 390,
+  "detail_renderer": "/Volumes/EXTERNAL/自媒体/AI日报/render_details.py",
+  "detail_renderer_note": "Reuse existing assets and fonts. Current four layouts are content-specific examples, not mandatory structures.",
+  "latest_issue_delivery": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/delivery.json",
+  "publication_preparation": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-25/发布准备/v01/发布准备清单.json",
+  "bgm_default": "required preparation item; user picks current issue track"
+}

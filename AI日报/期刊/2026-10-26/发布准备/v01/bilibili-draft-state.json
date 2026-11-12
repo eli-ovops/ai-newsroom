@@ -1,0 +1,51 @@
+{
+  "status": "EDITOR_RETAINED_NOT_SUBMITTED",
+  "saved": "UNKNOWN_NO_EXPLICIT_SAVE_CONTROL_OBSERVED",
+  "reopened": false,
+  "account": "Eli-AI",
+  "accountId": "432834855",
+  "url": "https://t.bilibili.com/",
+  "tabId": "4",
+  "title": "AI视频更新，旧电视换清爽桌面",
+  "caption": "10月26日AI日报：今天看4件事——AI视频工具更集中、显卡提速有边界、旧电视能换清爽桌面，AI也在参与新药研发。其中有今天的更新，也有10月23日的合作公告，日期分开看。\n\n① MiniMax H3：11项社区工具补进索引\n\nMiniMax官方组织下的H3生态索引，今天合并了11项社区项目的收录，涵盖参考图生成视频、服务部署和工作流等方向。想找适合自己设备的运行方式，可以先从这份导航入手。\n\n这是索引更新，不是11个模型同时发布。GPU、云端TPU和苹果电脑对应不同配置；部分项目还在预览或实验阶段，不能把某条路径的速度套到所有设备上。\n\n② 消费显卡“翻倍”，究竟快在哪里？\n\ngpu-unlock-ada继续补充实验型号适配。项目作者和贡献者报告，RTX 4090在特定半精度张量指令测试中，吞吐接近翻倍。\n\n到了实际矩阵运算，增幅会随任务变化；README里一组FP16矩阵测试提升12%—34%，另一个量化大模型任务没有收益。它依赖Linux、具体显卡和驱动条件，不能理解成所有AI生成速度翻倍，更不是显存翻倍。\n\n③ 让AI助手给旧电视换个清爽桌面\n\n开源桌面Aerial，把电视首页换成应用、壁纸和屏保。作者安装说明列出了WorkBuddy、豆包电脑版等能运行本机命令的AI助手，可协助安装；这是项目文档提供的用法，我们没有试装电视。\n\n需要对应机型支持、电脑与电视同网，并由机主允许ADB调试和安装。它只换桌面，固件开机广告和各App里的视频广告不会因此一起消失。今天另有版本更新，但这套桌面方案并非今天才出现。\n\n④ AI加入阿尔茨海默病研发\n\n10月23日，Pathos AI宣布与百时美施贵宝、Tempus合作，计划整理神经疾病患者的去标识化长期数据，用AI研究疾病进展、提出研究假设，并帮助设计更有针对性的临床试验。\n\n公告提到的数据覆盖计划涉及数十万神经疾病患者，不等于这些人已参加阿尔茨海默病治疗试验。目前公布的是研发合作，尚未给出这项合作的治疗效果或新药上市结果。\n\n这4条里，你更想了解AI视频、显卡提速、电视桌面，还是AI药物研发？\n\n来源见配图。\n\n#AI日报# #人工智能# #MiniMax# #AI工具# #AI资讯#",
+  "captionVerification": "MATCH_AFTER_NORMALIZING_DOM_ZERO_WIDTH_PREFIX_AND_TRAILING_SPACE",
+  "images": [
+    {
+      "order": 1,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/01-cover.png",
+      "sha256": "d864f812e283b613b11275972b237f6e82bb0501ed89dda53d4028cd34a646e7"
+    },
+    {
+      "order": 2,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/02-minimax.png",
+      "sha256": "b1a889bc3bc4e6dc5f90851c43dba35bb3c8394c746e28de96e8407019f9bda9"
+    },
+    {
+      "order": 3,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/03-gpu.png",
+      "sha256": "a5dbb8a654e7a3fd11835d4095e73fdfad56ef85558f3f791ce6d34ba1653b38"
+    },
+    {
+      "order": 4,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/04-tv.png",
+      "sha256": "04bf09e1dcb9e8c35c57270ff975e28f3530d6310a31e859e5b1a9ecea655d91"
+    },
+    {
+      "order": 5,
+      "path": "/Volumes/EXTERNAL/自媒体/AI日报/期刊/2026-10-26/v01/output/05-pathos.png",
+      "sha256": "be598c6e256612b8b523718c414844cef5446682ab9da4519ed919e9528fb87a"
+    }
+  ],
+  "nativeTopics": "PLAIN_TEXT_HASHTAGS",
+  "aiDeclaration": "AI_STATEMENT_MENU_SELECTED_BUT_EFFECTIVE_TOGGLE_STATE_NOT_EXPOSED",
+  "bgm": "NO_NATIVE_IMAGE_BGM_ENTRY_OBSERVED",
+  "evidence": [
+    "bilibili-editor.jpg",
+    "bilibili-editor.txt"
+  ],
+  "check": {
+    "matchesAfterNormalization": true,
+    "chars": 936,
+    "imageCount": 5
+  }
+}
